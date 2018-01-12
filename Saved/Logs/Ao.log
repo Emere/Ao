@@ -983,3 +983,1080 @@ LogInit: Object subsystem initialized
 [2018.01.12-15.51.18:630][936]LogSavePackage: Save=71.55ms
 [2018.01.12-15.51.18:631][936]LogSavePackage: Moving '../../../../../../Users/Thomas Lamson/Documents/Unreal Projects/Ao/Saved/TestsMap_BuiltData599A4DAD4FD883E7AA501E84CD1B3BE7.tmp' to '../../../../../../Users/Thomas Lamson/Documents/Unreal Projects/Ao/Content/Maps/TestsMap_BuiltData.uasset'
 [2018.01.12-15.51.18:637][936]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Thomas Lamson/Documents/Unreal Projects/Ao/Content/Maps/TestsMap_BuiltData.uasset
+[2018.01.12-15.54.37:565][597]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/Thomas Lamson/Documents/Unreal Projects/Ao/Resources/Test/GreenBackgroundAutel.png)
+[2018.01.12-15.54.37:586][597]LogTexture: Display: Building textures: GreenBackgroundAutel (AutoDXT, 304X304)
+[2018.01.12-15.54.43:759][701]LogSavePackage: Save=62.47ms
+[2018.01.12-15.54.43:759][701]LogSavePackage: Moving '../../../../../../Users/Thomas Lamson/Documents/Unreal Projects/Ao/Saved/GreenBackgroundAutel80F7851C4710954067543EB866F89A27.tmp' to '../../../../../../Users/Thomas Lamson/Documents/Unreal Projects/Ao/Content/Sprites/Test/GreenBackgroundAutel.uasset'
+[2018.01.12-15.54.43:777][701]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Thomas Lamson/Documents/Unreal Projects/Ao/Content/Sprites/Test/GreenBackgroundAutel.uasset
+[2018.01.12-15.55.04:922][161]LogSavePackage: Save=36.16ms
+[2018.01.12-15.55.04:922][161]LogSavePackage: Moving '../../../../../../Users/Thomas Lamson/Documents/Unreal Projects/Ao/Saved/PurpleBackground_Sprite708A05984B4743F8E2E8788CADB7E306.tmp' to '../../../../../../Users/Thomas Lamson/Documents/Unreal Projects/Ao/Content/Sprites/Test/PurpleBackground_Sprite.uasset'
+[2018.01.12-15.55.04:938][161]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Thomas Lamson/Documents/Unreal Projects/Ao/Content/Sprites/Test/PurpleBackground_Sprite.uasset
+[2018.01.12-15.55.34:529][810]LogSavePackage: Save=32.35ms
+[2018.01.12-15.55.34:529][810]LogSavePackage: Moving '../../../../../../Users/Thomas Lamson/Documents/Unreal Projects/Ao/Saved/PurpleBackground_SpriteA828CA5A4204B6D58D673B8FE4CD8C7C.tmp' to '../../../../../../Users/Thomas Lamson/Documents/Unreal Projects/Ao/Content/Sprites/Test/PurpleBackground_Sprite.uasset'
+[2018.01.12-15.55.34:543][810]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Thomas Lamson/Documents/Unreal Projects/Ao/Content/Sprites/Test/PurpleBackground_Sprite.uasset
+[2018.01.12-15.55.38:775][908]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (PurpleBackground_Sprite)
+[2018.01.12-15.58.47:278][918]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sprites/Test/TemplateTileMap" FILE="../../../../../../Users/Thomas Lamson/Documents/Unreal Projects/Ao/Content/Sprites/Test/TemplateTileMap.uasset" SILENT=true
+[2018.01.12-15.58.47:393][918]LogSavePackage: Save=84.35ms
+[2018.01.12-15.58.47:393][918]LogSavePackage: Moving '../../../../../../Users/Thomas Lamson/Documents/Unreal Projects/Ao/Saved/TemplateTileMap54484F0D4EB9EFE12E4BB3BD5937E6F5.tmp' to '../../../../../../Users/Thomas Lamson/Documents/Unreal Projects/Ao/Content/Sprites/Test/TemplateTileMap.uasset'
+[2018.01.12-15.58.47:409][918]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Thomas Lamson/Documents/Unreal Projects/Ao/Content/Sprites/Test/TemplateTileMap.uasset
+[2018.01.12-15.58.53:290][ 69]Cmd: TRANSACTION UNDO
+[2018.01.12-15.58.53:291][ 69]LogEditorTransaction: Undo Move Actors
+[2018.01.12-15.58.53:960][ 85]LogEditorViewport: Clicking on Actor (LMB): PaperTileMapActor (TemplateTileMap)
+[2018.01.12-15.59.06:343][326]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sprites/Test/TemplateTileMap" FILE="../../../../../../Users/Thomas Lamson/Documents/Unreal Projects/Ao/Content/Sprites/Test/TemplateTileMap.uasset" SILENT=true
+[2018.01.12-15.59.06:436][326]LogSavePackage: Save=68.86ms
+[2018.01.12-15.59.06:437][326]LogSavePackage: Moving '../../../../../../Users/Thomas Lamson/Documents/Unreal Projects/Ao/Saved/TemplateTileMap0FA1926C49D6F54DB00A93965AB2873F.tmp' to '../../../../../../Users/Thomas Lamson/Documents/Unreal Projects/Ao/Content/Sprites/Test/TemplateTileMap.uasset'
+[2018.01.12-15.59.06:448][326]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Thomas Lamson/Documents/Unreal Projects/Ao/Content/Sprites/Test/TemplateTileMap.uasset
+[2018.01.12-15.59.09:253][368]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.01.12-15.59.09:320][368]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.12-15.59.09:320][368]PIE: New page: PIE session: TestsMap (Jan 12, 2018, 5:59:09 PM)
+[2018.01.12-15.59.09:320][368]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestsMap
+[2018.01.12-15.59.09:325][368]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004508s)
+[2018.01.12-15.59.09:327][368]LogAIModule: Creating AISystem for world TestsMap
+[2018.01.12-15.59.09:327][368]LogPlayLevel: PIE: World Init took: (0.002018s)
+[2018.01.12-15.59.09:328][368]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestsMap.TestsMap to /Game/Maps/UEDPIE_0_TestsMap.TestsMap (0.007250s)
+[2018.01.12-15.59.09:396][368]LogInit: XAudio2 using 'Haut-parleurs (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.12-15.59.09:442][368]LogInit: FAudioDevice initialized.
+[2018.01.12-15.59.09:554][368]LogLoad: Game class is 'AoGameMode_C'
+[2018.01.12-15.59.09:558][368]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestsMap.TestsMap up for play (max tick rate 60) at 2018.01.12-16.59.09
+[2018.01.12-15.59.09:559][368]LogWorld: Bringing up level for play took: 0.003394
+[2018.01.12-15.59.09:576][368]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_TestsMap -0.626
+[2018.01.12-15.59.14:682][467]LogEditorViewport: Clicking on Actor (LMB): PaperTileMapActor (TemplateTileMap)
+[2018.01.12-15.59.25:731][754]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (PurpleBackground_Sprite)
+[2018.01.12-15.59.26:692][767]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.01.12-15.59.26:780][767]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.12-15.59.26:781][767]PIE: New page: PIE session: TestsMap (Jan 12, 2018, 5:59:26 PM)
+[2018.01.12-15.59.26:781][767]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestsMap
+[2018.01.12-15.59.26:790][767]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008141s)
+[2018.01.12-15.59.26:792][767]LogAIModule: Creating AISystem for world TestsMap
+[2018.01.12-15.59.26:793][767]LogPlayLevel: PIE: World Init took: (0.003114s)
+[2018.01.12-15.59.26:793][767]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestsMap.TestsMap to /Game/Maps/UEDPIE_0_TestsMap.TestsMap (0.012384s)
+[2018.01.12-15.59.26:887][767]LogInit: XAudio2 using 'Haut-parleurs (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.12-15.59.26:953][767]LogInit: FAudioDevice initialized.
+[2018.01.12-15.59.27:073][767]LogLoad: Game class is 'AoGameMode_C'
+[2018.01.12-15.59.27:080][767]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestsMap.TestsMap up for play (max tick rate 60) at 2018.01.12-16.59.27
+[2018.01.12-15.59.27:082][767]LogWorld: Bringing up level for play took: 0.005167
+[2018.01.12-15.59.27:110][767]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_TestsMap 0.907
+[2018.01.12-15.59.39:626][ 86]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (Player Start)
+[2018.01.12-15.59.40:673][108]LogEditorViewport: Clicking on Actor (LMB): PaperTileMapActor (TemplateTileMap)
+[2018.01.12-15.59.40:937][108]LogEditorViewport: Clicking on Component (LMB): PaperTileMapComponent (RenderComponent)
+[2018.01.12-15.59.41:997][126]LogEditorViewport: Clicking on Component (LMB): PaperTileMapComponent (RenderComponent)
+[2018.01.12-15.59.42:109][127]LogEditorViewport: Clicking on Actor (double click): PaperTileMapActor (TemplateTileMap)
+[2018.01.12-15.59.44:196][169]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (PurpleBackground_Sprite)
+[2018.01.12-15.59.44:866][186]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (PurpleBackground_Sprite)
+[2018.01.12-15.59.45:482][202]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (Player Start)
+[2018.01.12-15.59.54:430][437]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2018.01.12-15.59.55:932][478]Cmd: TRANSACTION UNDO
+[2018.01.12-15.59.55:933][478]LogEditorTransaction: Undo Move Actors
+[2018.01.12-15.59.56:650][495]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (PurpleBackground_Sprite)
+[2018.01.12-16.00.03:533][678]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.01.12-16.00.03:640][678]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.12-16.00.03:640][678]PIE: New page: PIE session: TestsMap (Jan 12, 2018, 6:00:03 PM)
+[2018.01.12-16.00.03:641][678]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestsMap
+[2018.01.12-16.00.03:648][678]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006918s)
+[2018.01.12-16.00.03:650][678]LogAIModule: Creating AISystem for world TestsMap
+[2018.01.12-16.00.03:651][678]LogPlayLevel: PIE: World Init took: (0.002472s)
+[2018.01.12-16.00.03:651][678]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestsMap.TestsMap to /Game/Maps/UEDPIE_0_TestsMap.TestsMap (0.010590s)
+[2018.01.12-16.00.03:739][678]LogInit: XAudio2 using 'Haut-parleurs (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.12-16.00.03:795][678]LogInit: FAudioDevice initialized.
+[2018.01.12-16.00.03:887][678]LogLoad: Game class is 'AoGameMode_C'
+[2018.01.12-16.00.03:893][678]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestsMap.TestsMap up for play (max tick rate 60) at 2018.01.12-17.00.03
+[2018.01.12-16.00.03:894][678]LogWorld: Bringing up level for play took: 0.003499
+[2018.01.12-16.00.03:909][678]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_TestsMap -0.293
+[2018.01.12-16.01.37:828][853]LogEditorViewport: Clicking on Actor (LMB): PaperTileMapActor (TemplateTileMap)
+[2018.01.12-16.01.38:951][879]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (PurpleBackground_Sprite)
+[2018.01.12-16.01.40:822][929]LogEditorViewport: Clicking on Actor (LMB): PaperTileMapActor (TemplateTileMap)
+[2018.01.12-16.01.44:258][  9]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (PurpleBackground_Sprite)
+[2018.01.12-16.01.44:893][ 19]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.01.12-16.01.44:982][ 19]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.12-16.01.44:983][ 19]PIE: New page: PIE session: TestsMap (Jan 12, 2018, 6:01:44 PM)
+[2018.01.12-16.01.44:984][ 19]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestsMap
+[2018.01.12-16.01.44:991][ 19]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007290s)
+[2018.01.12-16.01.44:993][ 19]LogAIModule: Creating AISystem for world TestsMap
+[2018.01.12-16.01.44:994][ 19]LogPlayLevel: PIE: World Init took: (0.002701s)
+[2018.01.12-16.01.44:995][ 19]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestsMap.TestsMap to /Game/Maps/UEDPIE_0_TestsMap.TestsMap (0.011131s)
+[2018.01.12-16.01.45:088][ 19]LogInit: XAudio2 using 'Haut-parleurs (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.12-16.01.45:153][ 19]LogInit: FAudioDevice initialized.
+[2018.01.12-16.01.45:280][ 19]LogLoad: Game class is 'AoGameMode_C'
+[2018.01.12-16.01.45:287][ 19]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestsMap.TestsMap up for play (max tick rate 60) at 2018.01.12-17.01.45
+[2018.01.12-16.01.45:288][ 19]LogWorld: Bringing up level for play took: 0.004696
+[2018.01.12-16.01.45:309][ 19]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_TestsMap 1.106
+[2018.01.12-16.01.54:809][225]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (PurpleBackground_Sprite)
+[2018.01.12-16.02.02:163][413]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.01.12-16.02.02:258][413]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.12-16.02.02:259][413]PIE: New page: PIE session: TestsMap (Jan 12, 2018, 6:02:02 PM)
+[2018.01.12-16.02.02:259][413]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestsMap
+[2018.01.12-16.02.02:266][413]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006349s)
+[2018.01.12-16.02.02:268][413]LogAIModule: Creating AISystem for world TestsMap
+[2018.01.12-16.02.02:269][413]LogPlayLevel: PIE: World Init took: (0.002773s)
+[2018.01.12-16.02.02:269][413]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestsMap.TestsMap to /Game/Maps/UEDPIE_0_TestsMap.TestsMap (0.010122s)
+[2018.01.12-16.02.02:373][413]LogInit: XAudio2 using 'Haut-parleurs (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.12-16.02.02:436][413]LogInit: FAudioDevice initialized.
+[2018.01.12-16.02.02:544][413]LogLoad: Game class is 'AoGameMode_C'
+[2018.01.12-16.02.02:550][413]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestsMap.TestsMap up for play (max tick rate 60) at 2018.01.12-17.02.02
+[2018.01.12-16.02.02:551][413]LogWorld: Bringing up level for play took: 0.004371
+[2018.01.12-16.02.02:571][413]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_TestsMap 0.369
+[2018.01.12-16.07.51:091][449]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sprites/Test/TemplateTileMap" FILE="../../../../../../Users/Thomas Lamson/Documents/Unreal Projects/Ao/Content/Sprites/Test/TemplateTileMap.uasset" SILENT=true
+[2018.01.12-16.07.51:414][449]LogSavePackage: Save=272.37ms
+[2018.01.12-16.07.51:414][449]LogSavePackage: Moving '../../../../../../Users/Thomas Lamson/Documents/Unreal Projects/Ao/Saved/TemplateTileMap62C4E1134FFBEB6739A179AAC9ADA7DC.tmp' to '../../../../../../Users/Thomas Lamson/Documents/Unreal Projects/Ao/Content/Sprites/Test/TemplateTileMap.uasset'
+[2018.01.12-16.07.51:429][449]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Thomas Lamson/Documents/Unreal Projects/Ao/Content/Sprites/Test/TemplateTileMap.uasset
+[2018.01.12-16.07.56:936][591]LogEditorViewport: Clicking on Actor (LMB): PaperTileMapActor (TemplateTileMap)
+[2018.01.12-16.08.03:025][771]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.01.12-16.08.03:140][771]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.12-16.08.03:141][771]PIE: New page: PIE session: TestsMap (Jan 12, 2018, 6:08:03 PM)
+[2018.01.12-16.08.03:141][771]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestsMap
+[2018.01.12-16.08.03:152][771]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010795s)
+[2018.01.12-16.08.03:155][771]LogAIModule: Creating AISystem for world TestsMap
+[2018.01.12-16.08.03:160][771]LogPlayLevel: PIE: World Init took: (0.007883s)
+[2018.01.12-16.08.03:161][771]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestsMap.TestsMap to /Game/Maps/UEDPIE_0_TestsMap.TestsMap (0.020216s)
+[2018.01.12-16.08.03:297][771]LogInit: XAudio2 using 'Haut-parleurs (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.12-16.08.03:369][771]LogInit: FAudioDevice initialized.
+[2018.01.12-16.08.03:480][771]LogLoad: Game class is 'AoGameMode_C'
+[2018.01.12-16.08.03:485][771]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestsMap.TestsMap up for play (max tick rate 60) at 2018.01.12-17.08.03
+[2018.01.12-16.08.03:487][771]LogWorld: Bringing up level for play took: 0.004736
+[2018.01.12-16.08.03:509][771]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_TestsMap 1.306
+[2018.01.12-16.08.16:621][966]LogEditorViewport: Clicking on Actor (LMB): PaperTileMapActor (TemplateTileMap)
+[2018.01.12-16.08.22:922][171]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.01.12-16.08.23:010][171]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.12-16.08.23:010][171]PIE: New page: PIE session: TestsMap (Jan 12, 2018, 6:08:23 PM)
+[2018.01.12-16.08.23:011][171]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestsMap
+[2018.01.12-16.08.23:017][171]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005899s)
+[2018.01.12-16.08.23:019][171]LogAIModule: Creating AISystem for world TestsMap
+[2018.01.12-16.08.23:020][171]LogPlayLevel: PIE: World Init took: (0.002519s)
+[2018.01.12-16.08.23:020][171]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestsMap.TestsMap to /Game/Maps/UEDPIE_0_TestsMap.TestsMap (0.009396s)
+[2018.01.12-16.08.23:092][171]LogInit: XAudio2 using 'Haut-parleurs (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.12-16.08.23:141][171]LogInit: FAudioDevice initialized.
+[2018.01.12-16.08.23:236][171]LogLoad: Game class is 'AoGameMode_C'
+[2018.01.12-16.08.23:241][171]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestsMap.TestsMap up for play (max tick rate 60) at 2018.01.12-17.08.23
+[2018.01.12-16.08.23:243][171]LogWorld: Bringing up level for play took: 0.004655
+[2018.01.12-16.08.23:265][171]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_TestsMap 1.063
+[2018.01.12-16.08.50:703][882]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (PlatformPurpleSprite)
+[2018.01.12-16.09.14:528][476]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.01.12-16.09.14:615][476]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.12-16.09.14:616][476]PIE: New page: PIE session: TestsMap (Jan 12, 2018, 6:09:14 PM)
+[2018.01.12-16.09.14:616][476]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestsMap
+[2018.01.12-16.09.14:621][476]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004678s)
+[2018.01.12-16.09.14:623][476]LogAIModule: Creating AISystem for world TestsMap
+[2018.01.12-16.09.14:624][476]LogPlayLevel: PIE: World Init took: (0.002388s)
+[2018.01.12-16.09.14:625][476]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestsMap.TestsMap to /Game/Maps/UEDPIE_0_TestsMap.TestsMap (0.008218s)
+[2018.01.12-16.09.14:695][476]LogInit: XAudio2 using 'Haut-parleurs (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.12-16.09.14:746][476]LogInit: FAudioDevice initialized.
+[2018.01.12-16.09.14:842][476]LogLoad: Game class is 'AoGameMode_C'
+[2018.01.12-16.09.14:848][476]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestsMap.TestsMap up for play (max tick rate 60) at 2018.01.12-17.09.14
+[2018.01.12-16.09.14:849][476]LogWorld: Bringing up level for play took: 0.003969
+[2018.01.12-16.09.14:868][476]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_TestsMap 0.665
+[2018.01.12-16.09.22:287][651]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight)
+[2018.01.12-16.09.23:441][679]Cmd: DELETE
+[2018.01.12-16.09.23:441][679]Cmd: ACTOR DELETE
+[2018.01.12-16.09.23:450][679]LogEditorActor: Deleted Actor: SpotLight
+[2018.01.12-16.09.23:509][679]LogEditorActor: Deleted 1 Actors (0.065 secs)
+[2018.01.12-16.09.24:534][707]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.01.12-16.09.24:618][707]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.12-16.09.24:619][707]PIE: New page: PIE session: TestsMap (Jan 12, 2018, 6:09:24 PM)
+[2018.01.12-16.09.24:619][707]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestsMap
+[2018.01.12-16.09.24:624][707]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004886s)
+[2018.01.12-16.09.24:626][707]LogAIModule: Creating AISystem for world TestsMap
+[2018.01.12-16.09.24:627][707]LogPlayLevel: PIE: World Init took: (0.002755s)
+[2018.01.12-16.09.24:628][707]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestsMap.TestsMap to /Game/Maps/UEDPIE_0_TestsMap.TestsMap (0.008628s)
+[2018.01.12-16.09.24:713][707]LogInit: XAudio2 using 'Haut-parleurs (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.12-16.09.24:776][707]LogInit: FAudioDevice initialized.
+[2018.01.12-16.09.24:890][707]LogLoad: Game class is 'AoGameMode_C'
+[2018.01.12-16.09.24:896][707]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestsMap.TestsMap up for play (max tick rate 60) at 2018.01.12-17.09.24
+[2018.01.12-16.09.24:897][707]LogWorld: Bringing up level for play took: 0.005484
+[2018.01.12-16.09.24:919][707]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_TestsMap 0.717
+[2018.01.12-16.10.03:236][185]LogSavePackage: Save=94.18ms
+[2018.01.12-16.10.03:236][185]LogSavePackage: Moving '../../../../../../Users/Thomas Lamson/Documents/Unreal Projects/Ao/Saved/TestsMap_Auto8CA2236C945A71647AAC87EB582513F88.tmp' to '../../../../../../Users/Thomas Lamson/Documents/Unreal Projects/Ao/Saved/Autosaves/Game/Maps/TestsMap_Auto8.umap'
+[2018.01.12-16.10.03:246][185]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Thomas Lamson/Documents/Unreal Projects/Ao/Saved/Autosaves/Game/Maps/TestsMap_Auto8.umap
+[2018.01.12-16.10.03:258][185]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/TestsMap' took 0.210
+[2018.01.12-16.10.03:258][185]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.210
+[2018.01.12-16.10.03:268][185]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Sprites/Test/GreenTiles] ([1] browsable assets)...
+[2018.01.12-16.10.03:270][185]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Sprites/Test/GreenTiles.GreenTiles]
+[2018.01.12-16.10.03:271][185]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sprites/Test/GreenTiles]
+[2018.01.12-16.10.03:314][185]LogSavePackage: Save=20.53ms
+[2018.01.12-16.10.03:315][185]LogSavePackage: Moving '../../../../../../Users/Thomas Lamson/Documents/Unreal Projects/Ao/Saved/GreenTiles_Auto89881FF1F418AD44C4C4040B1B38E53C4.tmp' to '../../../../../../Users/Thomas Lamson/Documents/Unreal Projects/Ao/Saved/Autosaves/Game/Sprites/Test/GreenTiles_Auto8.uasset'
+[2018.01.12-16.10.03:321][185]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Thomas Lamson/Documents/Unreal Projects/Ao/Saved/Autosaves/Game/Sprites/Test/GreenTiles_Auto8.uasset
+[2018.01.12-16.10.03:321][185]LogFileHelpers: Auto-saving content packages took 0.058
+[2018.01.12-16.10.17:457][419]LogSavePackage: Save=49.72ms
+[2018.01.12-16.10.17:457][419]LogSavePackage: Moving '../../../../../../Users/Thomas Lamson/Documents/Unreal Projects/Ao/Saved/PurpleBackground_SpriteF766AAD040DF1FB527BAA29F68F0CF25.tmp' to '../../../../../../Users/Thomas Lamson/Documents/Unreal Projects/Ao/Content/Sprites/Test/PurpleBackground_Sprite.uasset'
+[2018.01.12-16.10.17:475][419]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Thomas Lamson/Documents/Unreal Projects/Ao/Content/Sprites/Test/PurpleBackground_Sprite.uasset
+[2018.01.12-16.10.18:603][438]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.01.12-16.10.18:732][438]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.12-16.10.18:733][438]PIE: New page: PIE session: TestsMap (Jan 12, 2018, 6:10:18 PM)
+[2018.01.12-16.10.18:733][438]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestsMap
+[2018.01.12-16.10.18:741][438]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007417s)
+[2018.01.12-16.10.18:743][438]LogAIModule: Creating AISystem for world TestsMap
+[2018.01.12-16.10.18:744][438]LogPlayLevel: PIE: World Init took: (0.002932s)
+[2018.01.12-16.10.18:745][438]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestsMap.TestsMap to /Game/Maps/UEDPIE_0_TestsMap.TestsMap (0.011700s)
+[2018.01.12-16.10.18:833][438]LogInit: XAudio2 using 'Haut-parleurs (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.12-16.10.18:905][438]LogInit: FAudioDevice initialized.
+[2018.01.12-16.10.19:013][438]LogLoad: Game class is 'AoGameMode_C'
+[2018.01.12-16.10.19:020][438]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestsMap.TestsMap up for play (max tick rate 60) at 2018.01.12-17.10.19
+[2018.01.12-16.10.19:021][438]LogWorld: Bringing up level for play took: 0.004964
+[2018.01.12-16.10.19:044][438]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_TestsMap 0.842
+[2018.01.12-16.10.34:715][879]LogEditorViewport: Clicking on Actor (LMB): PaperTileMapActor (TemplateTileMap)
+[2018.01.12-16.10.59:033][356]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sprites/Test/TemplateTileMap" FILE="../../../../../../Users/Thomas Lamson/Documents/Unreal Projects/Ao/Content/Sprites/Test/TemplateTileMap.uasset" SILENT=true
+[2018.01.12-16.10.59:405][356]LogSavePackage: Save=337.09ms
+[2018.01.12-16.10.59:406][356]LogSavePackage: Moving '../../../../../../Users/Thomas Lamson/Documents/Unreal Projects/Ao/Saved/TemplateTileMap91B3ADD7432DEE277ECB33B6C86966FF.tmp' to '../../../../../../Users/Thomas Lamson/Documents/Unreal Projects/Ao/Content/Sprites/Test/TemplateTileMap.uasset'
+[2018.01.12-16.10.59:415][356]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Thomas Lamson/Documents/Unreal Projects/Ao/Content/Sprites/Test/TemplateTileMap.uasset
+[2018.01.12-16.11.00:755][376]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.01.12-16.11.00:820][376]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.12-16.11.00:821][376]PIE: New page: PIE session: TestsMap (Jan 12, 2018, 6:11:00 PM)
+[2018.01.12-16.11.00:821][376]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestsMap
+[2018.01.12-16.11.00:826][376]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004436s)
+[2018.01.12-16.11.00:827][376]LogAIModule: Creating AISystem for world TestsMap
+[2018.01.12-16.11.00:828][376]LogPlayLevel: PIE: World Init took: (0.001939s)
+[2018.01.12-16.11.00:828][376]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestsMap.TestsMap to /Game/Maps/UEDPIE_0_TestsMap.TestsMap (0.007070s)
+[2018.01.12-16.11.00:892][376]LogInit: XAudio2 using 'Haut-parleurs (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.12-16.11.00:938][376]LogInit: FAudioDevice initialized.
+[2018.01.12-16.11.01:044][376]LogLoad: Game class is 'AoGameMode_C'
+[2018.01.12-16.11.01:048][376]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestsMap.TestsMap up for play (max tick rate 60) at 2018.01.12-17.11.01
+[2018.01.12-16.11.01:050][376]LogWorld: Bringing up level for play took: 0.003863
+[2018.01.12-16.11.01:071][376]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_TestsMap 0.868
+[2018.01.12-16.11.04:850][496]LogEditorViewport: Clicking on Actor (LMB): PaperTileMapActor (TemplateTileMap)
+[2018.01.12-16.11.05:710][520]LogEditorViewport: Clicking on Actor (LMB): PaperTileMapActor (TemplateTileMap)
+[2018.01.12-16.11.29:982][136]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.01.12-16.11.30:051][136]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.12-16.11.30:052][136]PIE: New page: PIE session: TestsMap (Jan 12, 2018, 6:11:30 PM)
+[2018.01.12-16.11.30:052][136]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestsMap
+[2018.01.12-16.11.30:057][136]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005249s)
+[2018.01.12-16.11.30:059][136]LogAIModule: Creating AISystem for world TestsMap
+[2018.01.12-16.11.30:060][136]LogPlayLevel: PIE: World Init took: (0.002381s)
+[2018.01.12-16.11.30:060][136]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestsMap.TestsMap to /Game/Maps/UEDPIE_0_TestsMap.TestsMap (0.008463s)
+[2018.01.12-16.11.30:137][136]LogInit: XAudio2 using 'Haut-parleurs (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.12-16.11.30:182][136]LogInit: FAudioDevice initialized.
+[2018.01.12-16.11.30:296][136]LogLoad: Game class is 'AoGameMode_C'
+[2018.01.12-16.11.30:302][136]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestsMap.TestsMap up for play (max tick rate 60) at 2018.01.12-17.11.30
+[2018.01.12-16.11.30:303][136]LogWorld: Bringing up level for play took: 0.004530
+[2018.01.12-16.11.30:320][136]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_TestsMap 0.117
+[2018.01.12-16.11.35:203][278]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (PurpleBackground_Sprite)
+[2018.01.12-16.11.45:953][610]LogEditorViewport: Clicking on Actor (LMB): PaperTileMapActor (TemplateTileMap)
+[2018.01.12-16.12.30:504][506]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sprites/Test/TemplateTileMap" FILE="../../../../../../Users/Thomas Lamson/Documents/Unreal Projects/Ao/Content/Sprites/Test/TemplateTileMap.uasset" SILENT=true
+[2018.01.12-16.12.30:756][506]LogSavePackage: Save=221.00ms
+[2018.01.12-16.12.30:756][506]LogSavePackage: Moving '../../../../../../Users/Thomas Lamson/Documents/Unreal Projects/Ao/Saved/TemplateTileMapF253224F4B3533EF464B5CB1E08328AE.tmp' to '../../../../../../Users/Thomas Lamson/Documents/Unreal Projects/Ao/Content/Sprites/Test/TemplateTileMap.uasset'
+[2018.01.12-16.12.30:776][506]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Thomas Lamson/Documents/Unreal Projects/Ao/Content/Sprites/Test/TemplateTileMap.uasset
+[2018.01.12-16.12.32:413][541]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.01.12-16.12.32:484][541]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.12-16.12.32:485][541]PIE: New page: PIE session: TestsMap (Jan 12, 2018, 6:12:32 PM)
+[2018.01.12-16.12.32:485][541]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestsMap
+[2018.01.12-16.12.32:490][541]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004058s)
+[2018.01.12-16.12.32:491][541]LogAIModule: Creating AISystem for world TestsMap
+[2018.01.12-16.12.32:492][541]LogPlayLevel: PIE: World Init took: (0.002150s)
+[2018.01.12-16.12.32:492][541]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestsMap.TestsMap to /Game/Maps/UEDPIE_0_TestsMap.TestsMap (0.007073s)
+[2018.01.12-16.12.32:552][541]LogInit: XAudio2 using 'Haut-parleurs (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.12-16.12.32:595][541]LogInit: FAudioDevice initialized.
+[2018.01.12-16.12.32:694][541]LogLoad: Game class is 'AoGameMode_C'
+[2018.01.12-16.12.32:699][541]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestsMap.TestsMap up for play (max tick rate 60) at 2018.01.12-17.12.32
+[2018.01.12-16.12.32:700][541]LogWorld: Bringing up level for play took: 0.003928
+[2018.01.12-16.12.32:718][541]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_TestsMap 0.515
+[2018.01.12-16.12.39:267][718]MapCheck: New page: Map Check
+[2018.01.12-16.12.39:344][718]Cmd: MAP REBUILD ALLVISIBLE
+[2018.01.12-16.12.39:358][718]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2018.01.12-16.12.39:600][718]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy WorldGridMaterial, compiling. Is special engine material.
+[2018.01.12-16.12.39:646][718]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy DefaultLitSpriteMaterial, compiling. 
+[2018.01.12-16.12.39:689][718]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy BasicShapeMaterial, compiling. 
+[2018.01.12-16.12.42:095][718]TextureStreamingBuild: Display: Compiling optional shaders took 2.575 seconds.
+[2018.01.12-16.12.42:160][718]LogLevel: Display: Export Material TexCoord Scales took 0.064 seconds.
+[2018.01.12-16.12.42:188][718]TextureStreamingBuild: Display: Build Texture Streaming took 0.028 seconds.
+[2018.01.12-16.12.42:265][718]LightingResults: New page: Lighting Build - Jan 12, 2018, 6:12:42 PM
+[2018.01.12-16.12.42:635][718]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2018.01.12-16.12.42:963][718]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2018.01.12-16.12.43:277][718]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2018.01.12-16.12.46:190][718]LogSwarmInterface: Error: [TryOpenConnection] Waiting for the agent to start up ...
+[2018.01.12-16.12.46:304][718]LogSwarmInterface: Error: System.Net.Sockets.SocketException (0x80004005): Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée 127.0.0.1:8008
+
+Server stack trace: 
+   à System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   à System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   à System.Runtime.Remoting.Channels.RemoteConnection.CreateNewSocket(EndPoint ipEndPoint)
+   à System.Runtime.Remoting.Channels.SocketCache.GetSocket(String machinePortAndSid, Boolean openNew)
+   à System.Runtime.Remoting.Channels.Tcp.TcpClientTransportSink.SendRequestWithRetry(IMessage msg, ITransportHeaders requestHeaders, Stream requestStream)
+   à System.Runtime.Remoting.Channels.Tcp.TcpClientTransportSink.AsyncProcessRequest(IClientChannelSinkStack sinkStack, IMessage msg, ITransportHeaders headers, Stream stream)
+   à System.Runtime.Remoting.Channels.BinaryClientFormatterSink.AsyncProcessMessage(IMessage msg, IMessageSink replySink)
+
+Exception rethrown at [0]: 
+   à System.Runtime.Remoting.Proxies.RealProxy.HandleReturnMessage(IMessage reqMsg, IMessage retMsg)
+   à System.Runtime.Remoting.Proxies.RealProxy.PrivateInvoke(MessageData& msgData, Int32 type)
+   à NSwarm.IAgentInterfaceWrapper.MethodDelegate.EndInvoke(Hashtable& OutParameters, IAsyncResult result)
+   à NSwarm.FSwarmInterface.TryOpenConnection(FConnectionCallback CallbackFunc, IntPtr CallbackData, ELogFlags LoggingFlags)
+[2018.01.12-16.12.51:645][718]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2018.01.12-16.12.51:645][718]LogSwarmInterface: [TryOpenConnection] Local Process ID is 4796
+[2018.01.12-16.12.57:554][718]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2018.01.12-16.12.57:613][718]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2018.01.12-16.12.57:614][718]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2018.01.12-16.12.57:614][718]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2018.01.12-16.12.57:614][718]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2018.01.12-16.12.57:614][718]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2018.01.12-16.12.58:645][718]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2018.01.12-16.12.58:646][718]MapCheck: New page: TestsMap - Jan 12, 2018, 6:12:58 PM
+[2018.01.12-16.12.59:065][718]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 419.712ms to complete.
+[2018.01.12-16.12.59:091][718]LogEditorBuildUtils: Build time 0:19
+[2018.01.12-16.12.59:177][718]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer BasicShapeMaterial, compiling. 
+[2018.01.12-16.12.59:229][718]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer BasicShapeMaterial, compiling. 
+[2018.01.12-16.12.59:588][719]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer WorldGridMaterial, compiling. Is special engine material.
+[2018.01.12-16.12.59:651][719]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer WorldGridMaterial, compiling. Is special engine material.
+[2018.01.12-16.13.21:479][969]Job is a success!
+[2018.01.12-16.13.21:702][970]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.047s
+[2018.01.12-16.13.21:702][970]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2018.01.12-16.13.21:702][970]LogVolumetricLightmapImport:      BrickData 10x5x5 = 0.0Mb
+[2018.01.12-16.13.21:702][970]LogVolumetricLightmapImport:      Bricks at Level
+[2018.01.12-16.13.21:703][970]LogVolumetricLightmapImport:          0: 50.0% covering 100.0% of volume
+[2018.01.12-16.13.21:703][970]LogVolumetricLightmapImport:          1: 50.0% covering 1.6% of volume
+[2018.01.12-16.13.21:703][970]LogVolumetricLightmapImport:          2: 0.0% covering 0.0% of volume
+[2018.01.12-16.13.22:010][970]Lightmass on DESKTOP-DM246LS: 7.31 sec total, 5.63 sec importing, 105 ms setup, 233 ms photons, 1.21 sec processing, 0 ms extra exporting [1/1 mappings]. Threads: 4.83 sec total, 286 ms processing.
+[2018.01.12-16.13.22:170][970]LogStaticLightingSystem: Illumination: 39.8 sec (0 ms encoding lightmaps, 20 ms encoding shadowmaps)
+[2018.01.12-16.13.22:170][970]LogStaticLightingSystem: Lightmap texture memory:  0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 0 textures
+[2018.01.12-16.13.22:170][970]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 0 textures
+[2018.01.12-16.13.22:733][970]DumpUnbuiltLightIteractions
+[2018.01.12-16.13.22:733][970]Lights with unbuilt interactions: 0
+[2018.01.12-16.13.22:733][970]
+[2018.01.12-16.13.22:733][970]Primitives with unbuilt interactions: 0
+[2018.01.12-16.13.22:763][971]Cmd: MAP CHECK NOTIFYRESULTS
+[2018.01.12-16.13.22:764][971]MapCheck: New page: TestsMap - Jan 12, 2018, 6:13:22 PM
+[2018.01.12-16.13.23:165][971]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 400.622ms to complete.
+[2018.01.12-16.13.24:837][ 24]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.01.12-16.13.24:910][ 24]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.12-16.13.24:911][ 24]PIE: New page: PIE session: TestsMap (Jan 12, 2018, 6:13:24 PM)
+[2018.01.12-16.13.24:911][ 24]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestsMap
+[2018.01.12-16.13.24:916][ 24]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004894s)
+[2018.01.12-16.13.24:919][ 24]LogAIModule: Creating AISystem for world TestsMap
+[2018.01.12-16.13.24:919][ 24]LogPlayLevel: PIE: World Init took: (0.002641s)
+[2018.01.12-16.13.24:920][ 24]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestsMap.TestsMap to /Game/Maps/UEDPIE_0_TestsMap.TestsMap (0.008397s)
+[2018.01.12-16.13.24:990][ 24]LogInit: XAudio2 using 'Haut-parleurs (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.12-16.13.25:043][ 24]LogInit: FAudioDevice initialized.
+[2018.01.12-16.13.25:144][ 24]LogLoad: Game class is 'AoGameMode_C'
+[2018.01.12-16.13.25:149][ 24]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestsMap.TestsMap up for play (max tick rate 60) at 2018.01.12-17.13.25
+[2018.01.12-16.13.25:150][ 24]LogWorld: Bringing up level for play took: 0.003593
+[2018.01.12-16.13.25:168][ 24]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_TestsMap 0.966
+[2018.01.12-16.13.53:856][848]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.01.12-16.13.53:944][848]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.12-16.13.53:944][848]PIE: New page: PIE session: TestsMap (Jan 12, 2018, 6:13:53 PM)
+[2018.01.12-16.13.53:945][848]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestsMap
+[2018.01.12-16.13.53:951][848]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006170s)
+[2018.01.12-16.13.53:954][848]LogAIModule: Creating AISystem for world TestsMap
+[2018.01.12-16.13.53:955][848]LogPlayLevel: PIE: World Init took: (0.003100s)
+[2018.01.12-16.13.53:956][848]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestsMap.TestsMap to /Game/Maps/UEDPIE_0_TestsMap.TestsMap (0.010721s)
+[2018.01.12-16.13.54:039][848]LogInit: XAudio2 using 'Haut-parleurs (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.12-16.13.54:096][848]LogInit: FAudioDevice initialized.
+[2018.01.12-16.13.54:208][848]LogLoad: Game class is 'AoGameMode_C'
+[2018.01.12-16.13.54:215][848]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestsMap.TestsMap up for play (max tick rate 60) at 2018.01.12-17.13.54
+[2018.01.12-16.13.54:216][848]LogWorld: Bringing up level for play took: 0.004997
+[2018.01.12-16.13.54:237][848]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_TestsMap 0.035
+[2018.01.12-16.13.57:039][902]MapCheck: New page: Map Check
+[2018.01.12-16.13.57:081][902]Cmd: MAP REBUILD ALLVISIBLE
+[2018.01.12-16.13.57:082][902]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2018.01.12-16.13.57:176][902]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy WorldGridMaterial, compiling. Is special engine material.
+[2018.01.12-16.13.57:204][902]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy DefaultLitSpriteMaterial, compiling. 
+[2018.01.12-16.13.57:237][902]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy BasicShapeMaterial, compiling. 
+[2018.01.12-16.13.59:378][902]TextureStreamingBuild: Display: Compiling optional shaders took 2.221 seconds.
+[2018.01.12-16.13.59:384][902]LogLevel: Display: Export Material TexCoord Scales took 0.006 seconds.
+[2018.01.12-16.13.59:396][902]TextureStreamingBuild: Display: Build Texture Streaming took 0.012 seconds.
+[2018.01.12-16.13.59:444][902]LightingResults: New page: Lighting Build - Jan 12, 2018, 6:13:59 PM
+[2018.01.12-16.13.59:472][902]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2018.01.12-16.13.59:477][902]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2018.01.12-16.13.59:478][902]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2018.01.12-16.13.59:480][902]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2018.01.12-16.13.59:480][902]LogSwarmInterface: [TryOpenConnection] Local Process ID is 4796
+[2018.01.12-16.14.04:001][902]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2018.01.12-16.14.04:001][902]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2018.01.12-16.14.04:001][902]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2018.01.12-16.14.04:001][902]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2018.01.12-16.14.04:001][902]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2018.01.12-16.14.04:001][902]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2018.01.12-16.14.04:408][902]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2018.01.12-16.14.04:408][902]MapCheck: New page: TestsMap - Jan 12, 2018, 6:14:04 PM
+[2018.01.12-16.14.04:733][902]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 325.49ms to complete.
+[2018.01.12-16.14.04:760][902]LogEditorBuildUtils: Build time 0:07
+[2018.01.12-16.14.10:445][  4]Job is a success!
+[2018.01.12-16.14.10:613][  5]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.024s
+[2018.01.12-16.14.10:613][  5]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2018.01.12-16.14.10:613][  5]LogVolumetricLightmapImport:      BrickData 10x5x5 = 0.0Mb
+[2018.01.12-16.14.10:613][  5]LogVolumetricLightmapImport:      Bricks at Level
+[2018.01.12-16.14.10:613][  5]LogVolumetricLightmapImport:          0: 50.0% covering 100.0% of volume
+[2018.01.12-16.14.10:613][  5]LogVolumetricLightmapImport:          1: 50.0% covering 1.6% of volume
+[2018.01.12-16.14.10:614][  5]LogVolumetricLightmapImport:          2: 0.0% covering 0.0% of volume
+[2018.01.12-16.14.10:776][  5]Lightmass on DESKTOP-DM246LS: 2.66 sec total, 973 ms importing, 130 ms setup, 280 ms photons, 1.11 sec processing, 0 ms extra exporting [1/1 mappings]. Threads: 4.38 sec total, 230 ms processing.
+[2018.01.12-16.14.10:798][  5]LogStaticLightingSystem: Illumination: 11.2 sec (0 ms encoding lightmaps, 0 ms encoding shadowmaps)
+[2018.01.12-16.14.10:798][  5]LogStaticLightingSystem: Lightmap texture memory:  0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 0 textures
+[2018.01.12-16.14.10:798][  5]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 0 textures
+[2018.01.12-16.14.11:007][  5]DumpUnbuiltLightIteractions
+[2018.01.12-16.14.11:007][  5]Lights with unbuilt interactions: 0
+[2018.01.12-16.14.11:007][  5]
+[2018.01.12-16.14.11:007][  5]Primitives with unbuilt interactions: 0
+[2018.01.12-16.14.11:044][  6]Cmd: MAP CHECK NOTIFYRESULTS
+[2018.01.12-16.14.11:045][  6]MapCheck: New page: TestsMap - Jan 12, 2018, 6:14:11 PM
+[2018.01.12-16.14.11:395][  6]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 350.032ms to complete.
+[2018.01.12-16.14.13:099][ 53]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.01.12-16.14.13:189][ 53]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.12-16.14.13:189][ 53]PIE: New page: PIE session: TestsMap (Jan 12, 2018, 6:14:13 PM)
+[2018.01.12-16.14.13:190][ 53]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestsMap
+[2018.01.12-16.14.13:196][ 53]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006568s)
+[2018.01.12-16.14.13:199][ 53]LogAIModule: Creating AISystem for world TestsMap
+[2018.01.12-16.14.13:200][ 53]LogPlayLevel: PIE: World Init took: (0.003097s)
+[2018.01.12-16.14.13:200][ 53]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestsMap.TestsMap to /Game/Maps/UEDPIE_0_TestsMap.TestsMap (0.010746s)
+[2018.01.12-16.14.13:300][ 53]LogInit: XAudio2 using 'Haut-parleurs (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.12-16.14.13:364][ 53]LogInit: FAudioDevice initialized.
+[2018.01.12-16.14.13:488][ 53]LogLoad: Game class is 'AoGameMode_C'
+[2018.01.12-16.14.13:496][ 53]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestsMap.TestsMap up for play (max tick rate 60) at 2018.01.12-17.14.13
+[2018.01.12-16.14.13:497][ 53]LogWorld: Bringing up level for play took: 0.005654
+[2018.01.12-16.14.13:521][ 53]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_TestsMap 1.319
+[2018.01.12-16.14.15:954][ 80]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight)
+[2018.01.12-16.14.27:481][398]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.01.12-16.14.27:588][398]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.12-16.14.27:588][398]PIE: New page: PIE session: TestsMap (Jan 12, 2018, 6:14:27 PM)
+[2018.01.12-16.14.27:589][398]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestsMap
+[2018.01.12-16.14.27:597][398]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007899s)
+[2018.01.12-16.14.27:600][398]LogAIModule: Creating AISystem for world TestsMap
+[2018.01.12-16.14.27:601][398]LogPlayLevel: PIE: World Init took: (0.003379s)
+[2018.01.12-16.14.27:601][398]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestsMap.TestsMap to /Game/Maps/UEDPIE_0_TestsMap.TestsMap (0.012667s)
+[2018.01.12-16.14.27:704][398]LogInit: XAudio2 using 'Haut-parleurs (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.12-16.14.27:779][398]LogInit: FAudioDevice initialized.
+[2018.01.12-16.14.27:881][398]LogLoad: Game class is 'AoGameMode_C'
+[2018.01.12-16.14.27:887][398]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestsMap.TestsMap up for play (max tick rate 60) at 2018.01.12-17.14.27
+[2018.01.12-16.14.27:888][398]LogWorld: Bringing up level for play took: 0.004221
+[2018.01.12-16.14.27:914][398]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_TestsMap -0.289
+[2018.01.12-16.14.40:637][783]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (Player Start)
+[2018.01.12-16.14.43:621][883]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube)
+[2018.01.12-16.14.46:306][955]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2018.01.12-16.14.46:867][965]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.01.12-16.14.46:991][965]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.12-16.14.46:992][965]PIE: New page: PIE session: TestsMap (Jan 12, 2018, 6:14:46 PM)
+[2018.01.12-16.14.46:992][965]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestsMap
+[2018.01.12-16.14.46:999][965]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006917s)
+[2018.01.12-16.14.47:001][965]LogAIModule: Creating AISystem for world TestsMap
+[2018.01.12-16.14.47:002][965]LogPlayLevel: PIE: World Init took: (0.002659s)
+[2018.01.12-16.14.47:009][965]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestsMap.TestsMap to /Game/Maps/UEDPIE_0_TestsMap.TestsMap (0.016673s)
+[2018.01.12-16.14.47:097][965]LogInit: XAudio2 using 'Haut-parleurs (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.12-16.14.47:156][965]LogInit: FAudioDevice initialized.
+[2018.01.12-16.14.47:246][965]LogLoad: Game class is 'AoGameMode_C'
+[2018.01.12-16.14.47:251][965]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestsMap.TestsMap up for play (max tick rate 60) at 2018.01.12-17.14.47
+[2018.01.12-16.14.47:252][965]LogWorld: Bringing up level for play took: 0.004248
+[2018.01.12-16.14.47:276][965]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_TestsMap 1.073
+[2018.01.12-16.14.58:158][298]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight)
+[2018.01.12-16.15.07:963][580]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.01.12-16.15.08:031][580]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.12-16.15.08:031][580]PIE: New page: PIE session: TestsMap (Jan 12, 2018, 6:15:08 PM)
+[2018.01.12-16.15.08:032][580]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestsMap
+[2018.01.12-16.15.08:039][580]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006901s)
+[2018.01.12-16.15.08:041][580]LogAIModule: Creating AISystem for world TestsMap
+[2018.01.12-16.15.08:041][580]LogPlayLevel: PIE: World Init took: (0.002379s)
+[2018.01.12-16.15.08:042][580]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestsMap.TestsMap to /Game/Maps/UEDPIE_0_TestsMap.TestsMap (0.010258s)
+[2018.01.12-16.15.08:112][580]LogInit: XAudio2 using 'Haut-parleurs (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.12-16.15.08:161][580]LogInit: FAudioDevice initialized.
+[2018.01.12-16.15.08:255][580]LogLoad: Game class is 'AoGameMode_C'
+[2018.01.12-16.15.08:259][580]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestsMap.TestsMap up for play (max tick rate 60) at 2018.01.12-17.15.08
+[2018.01.12-16.15.08:260][580]LogWorld: Bringing up level for play took: 0.003685
+[2018.01.12-16.15.08:276][580]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_TestsMap 0.074
+[2018.01.12-16.15.27:622][202]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (PlatformPurpleSprite)
+[2018.01.12-16.15.29:476][261]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (TestCharac_Sprite)
+[2018.01.12-16.15.38:129][494]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Golem_Sprite)
+[2018.01.12-16.15.44:128][661]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (PurpleBackground_Sprite)
+[2018.01.12-16.15.45:366][698]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (PurpleBackground_Sprite)
+[2018.01.12-16.15.46:022][716]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (TestCharac_Sprite)
+[2018.01.12-16.15.49:413][813]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (PurpleBackground_Sprite)
+[2018.01.12-16.15.50:117][833]LogEditorViewport: Clicking on Actor (LMB): PaperTileMapActor (TemplateTileMap)
+[2018.01.12-16.15.51:802][873]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.01.12-16.15.51:911][873]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.12-16.15.51:912][873]PIE: New page: PIE session: TestsMap (Jan 12, 2018, 6:15:51 PM)
+[2018.01.12-16.15.51:913][873]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestsMap
+[2018.01.12-16.15.51:923][873]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010269s)
+[2018.01.12-16.15.51:928][873]LogAIModule: Creating AISystem for world TestsMap
+[2018.01.12-16.15.51:929][873]LogPlayLevel: PIE: World Init took: (0.005619s)
+[2018.01.12-16.15.51:929][873]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestsMap.TestsMap to /Game/Maps/UEDPIE_0_TestsMap.TestsMap (0.016948s)
+[2018.01.12-16.15.52:085][873]LogInit: XAudio2 using 'Haut-parleurs (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.12-16.15.52:157][873]LogInit: FAudioDevice initialized.
+[2018.01.12-16.15.52:254][873]LogLoad: Game class is 'AoGameMode_C'
+[2018.01.12-16.15.52:259][873]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestsMap.TestsMap up for play (max tick rate 60) at 2018.01.12-17.15.52
+[2018.01.12-16.15.52:260][873]LogWorld: Bringing up level for play took: 0.004312
+[2018.01.12-16.15.52:284][873]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_TestsMap 0.082
+[2018.01.12-16.19.53:080][629]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sprites/Test/TemplateTileMap" FILE="../../../../../../Users/Thomas Lamson/Documents/Unreal Projects/Ao/Content/Sprites/Test/TemplateTileMap.uasset" SILENT=true
+[2018.01.12-16.19.53:454][629]LogSavePackage: Save=324.21ms
+[2018.01.12-16.19.53:454][629]LogSavePackage: Moving '../../../../../../Users/Thomas Lamson/Documents/Unreal Projects/Ao/Saved/TemplateTileMapFA366A76442FDB14F88A62AB93C7DC78.tmp' to '../../../../../../Users/Thomas Lamson/Documents/Unreal Projects/Ao/Content/Sprites/Test/TemplateTileMap.uasset'
+[2018.01.12-16.19.53:472][629]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Thomas Lamson/Documents/Unreal Projects/Ao/Content/Sprites/Test/TemplateTileMap.uasset
+[2018.01.12-16.19.55:166][660]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.01.12-16.19.55:276][660]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.12-16.19.55:277][660]PIE: New page: PIE session: TestsMap (Jan 12, 2018, 6:19:55 PM)
+[2018.01.12-16.19.55:277][660]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestsMap
+[2018.01.12-16.19.55:284][660]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007034s)
+[2018.01.12-16.19.55:287][660]LogAIModule: Creating AISystem for world TestsMap
+[2018.01.12-16.19.55:288][660]LogPlayLevel: PIE: World Init took: (0.003474s)
+[2018.01.12-16.19.55:289][660]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestsMap.TestsMap to /Game/Maps/UEDPIE_0_TestsMap.TestsMap (0.012041s)
+[2018.01.12-16.19.55:382][660]LogInit: XAudio2 using 'Haut-parleurs (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.12-16.19.55:439][660]LogInit: FAudioDevice initialized.
+[2018.01.12-16.19.55:563][660]LogLoad: Game class is 'AoGameMode_C'
+[2018.01.12-16.19.55:569][660]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestsMap.TestsMap up for play (max tick rate 60) at 2018.01.12-17.19.55
+[2018.01.12-16.19.55:571][660]LogWorld: Bringing up level for play took: 0.005270
+[2018.01.12-16.19.55:592][660]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_TestsMap -0.611
+[2018.01.12-16.20.47:511][423]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (Player Start)
+[2018.01.12-16.20.48:110][436]LogEditorViewport: Clicking Background
+[2018.01.12-16.21.05:955][721]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight)
+[2018.01.12-16.21.09:492][808]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.01.12-16.21.09:583][808]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.12-16.21.09:584][808]PIE: New page: PIE session: TestsMap (Jan 12, 2018, 6:21:09 PM)
+[2018.01.12-16.21.09:584][808]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestsMap
+[2018.01.12-16.21.09:594][808]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009232s)
+[2018.01.12-16.21.09:596][808]LogAIModule: Creating AISystem for world TestsMap
+[2018.01.12-16.21.09:597][808]LogPlayLevel: PIE: World Init took: (0.003348s)
+[2018.01.12-16.21.09:598][808]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestsMap.TestsMap to /Game/Maps/UEDPIE_0_TestsMap.TestsMap (0.013853s)
+[2018.01.12-16.21.09:674][808]LogInit: XAudio2 using 'Haut-parleurs (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.12-16.21.09:729][808]LogInit: FAudioDevice initialized.
+[2018.01.12-16.21.09:852][808]LogLoad: Game class is 'AoGameMode_C'
+[2018.01.12-16.21.09:859][808]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestsMap.TestsMap up for play (max tick rate 60) at 2018.01.12-17.21.09
+[2018.01.12-16.21.09:861][808]LogWorld: Bringing up level for play took: 0.005835
+[2018.01.12-16.21.09:887][808]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_TestsMap -0.315
+[2018.01.12-16.21.21:006][111]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight)
+[2018.01.12-16.21.27:603][313]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.01.12-16.21.27:684][313]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.12-16.21.27:685][313]PIE: New page: PIE session: TestsMap (Jan 12, 2018, 6:21:27 PM)
+[2018.01.12-16.21.27:685][313]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestsMap
+[2018.01.12-16.21.27:692][313]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007007s)
+[2018.01.12-16.21.27:694][313]LogAIModule: Creating AISystem for world TestsMap
+[2018.01.12-16.21.27:695][313]LogPlayLevel: PIE: World Init took: (0.002662s)
+[2018.01.12-16.21.27:696][313]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestsMap.TestsMap to /Game/Maps/UEDPIE_0_TestsMap.TestsMap (0.010924s)
+[2018.01.12-16.21.27:793][313]LogInit: XAudio2 using 'Haut-parleurs (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.12-16.21.27:852][313]LogInit: FAudioDevice initialized.
+[2018.01.12-16.21.27:975][313]LogLoad: Game class is 'AoGameMode_C'
+[2018.01.12-16.21.27:981][313]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestsMap.TestsMap up for play (max tick rate 60) at 2018.01.12-17.21.27
+[2018.01.12-16.21.27:983][313]LogWorld: Bringing up level for play took: 0.005321
+[2018.01.12-16.21.28:006][313]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_TestsMap -0.197
+[2018.01.12-16.22.22:202][950]LogEditorViewport: Clicking on Actor (context menu): PaperSpriteActor (PurpleBackground_Sprite)
+[2018.01.12-16.22.24:353][984]LogEditorViewport: Clicking Background
+[2018.01.12-16.23.39:505][887]LogSavePackage: Save=135.04ms
+[2018.01.12-16.23.39:505][887]LogSavePackage: Moving '../../../../../../Users/Thomas Lamson/Documents/Unreal Projects/Ao/Saved/TestsMap_Auto913998A3F4E40D73E9AC41BAC544BA339.tmp' to '../../../../../../Users/Thomas Lamson/Documents/Unreal Projects/Ao/Saved/Autosaves/Game/Maps/TestsMap_Auto9.umap'
+[2018.01.12-16.23.39:511][887]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Thomas Lamson/Documents/Unreal Projects/Ao/Saved/Autosaves/Game/Maps/TestsMap_Auto9.umap
+[2018.01.12-16.23.39:520][887]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/TestsMap' took 0.319
+[2018.01.12-16.23.39:520][887]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.319
+[2018.01.12-16.23.39:528][887]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Maps/TestsMap_BuiltData] ([1] browsable assets)...
+[2018.01.12-16.23.39:528][887]OBJ SavePackage: Finished generating thumbnails for package [/Game/Maps/TestsMap_BuiltData]
+[2018.01.12-16.23.39:595][887]LogSavePackage: Save=21.27ms
+[2018.01.12-16.23.39:596][887]LogSavePackage: Moving '../../../../../../Users/Thomas Lamson/Documents/Unreal Projects/Ao/Saved/TestsMap_BuiltData_Auto9D65ABD65412241B340F5D4882DB5C5AF.tmp' to '../../../../../../Users/Thomas Lamson/Documents/Unreal Projects/Ao/Saved/Autosaves/Game/Maps/TestsMap_BuiltData_Auto9.uasset'
+[2018.01.12-16.23.39:603][887]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Thomas Lamson/Documents/Unreal Projects/Ao/Saved/Autosaves/Game/Maps/TestsMap_BuiltData_Auto9.uasset
+[2018.01.12-16.23.39:603][887]LogFileHelpers: Auto-saving content packages took 0.078
+[2018.01.12-16.24.36:329][150]LogEditorFactories: Performing atomic reimport of [C:/Users/Thomas Lamson/Documents/Unreal Projects/Ao/Resources/Test/Golem.png]
+[2018.01.12-16.24.36:330][150]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/Thomas Lamson/Documents/Unreal Projects/Ao/Resources/Test/Golem.png)
+[2018.01.12-16.24.36:344][150]LogTexture: Display: Building textures: Golem (BGRA8, 32X54)
+[2018.01.12-16.24.36:364][150]LogEditorFactories: -- imported successfully
+[2018.01.12-16.24.37:619][179]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.01.12-16.24.37:740][179]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.12-16.24.37:741][179]PIE: New page: PIE session: TestsMap (Jan 12, 2018, 6:24:37 PM)
+[2018.01.12-16.24.37:741][179]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestsMap
+[2018.01.12-16.24.37:751][179]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009280s)
+[2018.01.12-16.24.37:753][179]LogAIModule: Creating AISystem for world TestsMap
+[2018.01.12-16.24.37:754][179]LogPlayLevel: PIE: World Init took: (0.003508s)
+[2018.01.12-16.24.37:755][179]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestsMap.TestsMap to /Game/Maps/UEDPIE_0_TestsMap.TestsMap (0.014107s)
+[2018.01.12-16.24.37:865][179]LogInit: XAudio2 using 'Haut-parleurs (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.12-16.24.37:933][179]LogInit: FAudioDevice initialized.
+[2018.01.12-16.24.38:068][179]LogLoad: Game class is 'AoGameMode_C'
+[2018.01.12-16.24.38:075][179]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestsMap.TestsMap up for play (max tick rate 60) at 2018.01.12-17.24.38
+[2018.01.12-16.24.38:076][179]LogWorld: Bringing up level for play took: 0.004543
+[2018.01.12-16.24.38:102][179]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_TestsMap -0.1
+[2018.01.12-16.25.25:720][739]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/TestsMap" FILE="../../../../../../Users/Thomas Lamson/Documents/Unreal Projects/Ao/Content/Maps/TestsMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.01.12-16.25.25:964][739]LogSavePackage: Save=122.45ms
+[2018.01.12-16.25.25:964][739]LogSavePackage: Moving '../../../../../../Users/Thomas Lamson/Documents/Unreal Projects/Ao/Saved/TestsMap14E4C44A425A72CF82799CBB0DC9E1BC.tmp' to '../../../../../../Users/Thomas Lamson/Documents/Unreal Projects/Ao/Content/Maps/TestsMap.umap'
+[2018.01.12-16.25.26:037][739]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Thomas Lamson/Documents/Unreal Projects/Ao/Content/Maps/TestsMap.umap
+[2018.01.12-16.25.26:251][739]LogFileHelpers: Saving map 'TestsMap' took 1.010
+[2018.01.12-16.25.26:280][739]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/TestsMap_BuiltData" FILE="../../../../../../Users/Thomas Lamson/Documents/Unreal Projects/Ao/Content/Maps/TestsMap_BuiltData.uasset" SILENT=true
+[2018.01.12-16.25.26:395][739]LogSavePackage: Save=84.34ms
+[2018.01.12-16.25.26:395][739]LogSavePackage: Moving '../../../../../../Users/Thomas Lamson/Documents/Unreal Projects/Ao/Saved/TestsMap_BuiltDataFBDD93F04DCE4C879E0F51A1169A979A.tmp' to '../../../../../../Users/Thomas Lamson/Documents/Unreal Projects/Ao/Content/Maps/TestsMap_BuiltData.uasset'
+[2018.01.12-16.25.26:450][739]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Thomas Lamson/Documents/Unreal Projects/Ao/Content/Maps/TestsMap_BuiltData.uasset
+[2018.01.12-16.25.26:463][739]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sprites/Test/GreenTiles" FILE="../../../../../../Users/Thomas Lamson/Documents/Unreal Projects/Ao/Content/Sprites/Test/GreenTiles.uasset" SILENT=true
+[2018.01.12-16.25.26:520][739]LogSavePackage: Save=25.81ms
+[2018.01.12-16.25.26:521][739]LogSavePackage: Moving '../../../../../../Users/Thomas Lamson/Documents/Unreal Projects/Ao/Saved/GreenTiles6E956FCE47EC3A43F3BDDF9A578D4698.tmp' to '../../../../../../Users/Thomas Lamson/Documents/Unreal Projects/Ao/Content/Sprites/Test/GreenTiles.uasset'
+[2018.01.12-16.25.26:536][739]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Thomas Lamson/Documents/Unreal Projects/Ao/Content/Sprites/Test/GreenTiles.uasset
+[2018.01.12-16.25.26:551][739]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sprites/Test/TemplateTileset" FILE="../../../../../../Users/Thomas Lamson/Documents/Unreal Projects/Ao/Content/Sprites/Test/TemplateTileset.uasset" SILENT=true
+[2018.01.12-16.25.26:611][739]LogSavePackage: Save=27.59ms
+[2018.01.12-16.25.26:611][739]LogSavePackage: Moving '../../../../../../Users/Thomas Lamson/Documents/Unreal Projects/Ao/Saved/TemplateTileset57327717407959F75B9183B2CC8C2EFD.tmp' to '../../../../../../Users/Thomas Lamson/Documents/Unreal Projects/Ao/Content/Sprites/Test/TemplateTileset.uasset'
+[2018.01.12-16.25.26:637][739]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Thomas Lamson/Documents/Unreal Projects/Ao/Content/Sprites/Test/TemplateTileset.uasset
+[2018.01.12-16.25.26:653][739]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sprites/Test/Golem" FILE="../../../../../../Users/Thomas Lamson/Documents/Unreal Projects/Ao/Content/Sprites/Test/Golem.uasset" SILENT=true
+[2018.01.12-16.25.26:721][739]LogSavePackage: Save=26.23ms
+[2018.01.12-16.25.26:722][739]LogSavePackage: Moving '../../../../../../Users/Thomas Lamson/Documents/Unreal Projects/Ao/Saved/Golem652D03794D87B5A36FA3CEA8504D85AC.tmp' to '../../../../../../Users/Thomas Lamson/Documents/Unreal Projects/Ao/Content/Sprites/Test/Golem.uasset'
+[2018.01.12-16.25.26:738][739]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Thomas Lamson/Documents/Unreal Projects/Ao/Content/Sprites/Test/Golem.uasset
+[2018.01.12-16.26.54:750][508]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0071 seconds. Added 116 classes and 0 folders.
+[2018.01.12-16.27.09:132][679]LogSlate: Took 0.015558 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.01.12-16.27.30:714][111]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/AoCharacter" FILE="../../../../../../Users/Thomas Lamson/Documents/Unreal Projects/Ao/Content/Character/AoCharacter.uasset" SILENT=true
+[2018.01.12-16.27.30:828][111]LogSavePackage: Save=69.14ms
+[2018.01.12-16.27.30:829][111]LogSavePackage: Moving '../../../../../../Users/Thomas Lamson/Documents/Unreal Projects/Ao/Saved/AoCharacter8D82F0CF4D6C58F02104BBAD5B1E1301.tmp' to '../../../../../../Users/Thomas Lamson/Documents/Unreal Projects/Ao/Content/Character/AoCharacter.uasset'
+[2018.01.12-16.27.30:848][111]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Thomas Lamson/Documents/Unreal Projects/Ao/Content/Character/AoCharacter.uasset
+[2018.01.12-16.29.14:668][416]BlueprintLog: New page: Compile AoCharacter
+[2018.01.12-16.29.16:342][421]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/AoCharacter" FILE="../../../../../../Users/Thomas Lamson/Documents/Unreal Projects/Ao/Content/Character/AoCharacter.uasset" SILENT=true
+[2018.01.12-16.29.16:492][421]LogSavePackage: Save=114.52ms
+[2018.01.12-16.29.16:493][421]LogSavePackage: Moving '../../../../../../Users/Thomas Lamson/Documents/Unreal Projects/Ao/Saved/AoCharacterB216CB21434EAE894ED2FDACB12C6D2B.tmp' to '../../../../../../Users/Thomas Lamson/Documents/Unreal Projects/Ao/Content/Character/AoCharacter.uasset'
+[2018.01.12-16.29.16:509][421]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Thomas Lamson/Documents/Unreal Projects/Ao/Content/Character/AoCharacter.uasset
+[2018.01.12-16.29.25:336][664]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.01.12-16.29.25:516][664]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.12-16.29.25:517][664]PIE: New page: PIE session: TestsMap (Jan 12, 2018, 6:29:25 PM)
+[2018.01.12-16.29.25:517][664]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestsMap
+[2018.01.12-16.29.25:524][664]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006998s)
+[2018.01.12-16.29.25:527][664]LogAIModule: Creating AISystem for world TestsMap
+[2018.01.12-16.29.25:528][664]LogPlayLevel: PIE: World Init took: (0.003762s)
+[2018.01.12-16.29.25:530][664]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestsMap.TestsMap to /Game/Maps/UEDPIE_0_TestsMap.TestsMap (0.012050s)
+[2018.01.12-16.29.25:664][664]LogInit: XAudio2 using 'Haut-parleurs (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.12-16.29.25:721][664]LogInit: FAudioDevice initialized.
+[2018.01.12-16.29.25:846][664]LogLoad: Game class is 'AoGameMode_C'
+[2018.01.12-16.29.25:853][664]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestsMap.TestsMap up for play (max tick rate 60) at 2018.01.12-17.29.25
+[2018.01.12-16.29.25:854][664]LogWorld: Bringing up level for play took: 0.004565
+[2018.01.12-16.29.25:880][664]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_TestsMap -0.323
+[2018.01.12-16.29.33:360][899]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (PurpleBackground_Sprite)
+[2018.01.12-16.29.34:584][941]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight)
+[2018.01.12-16.29.42:893][113]LogEditorViewport: Clicking on Actor (context menu): PaperSpriteActor (PurpleBackground_Sprite)
+[2018.01.12-16.29.43:403][113]LogEditorViewport: Clicking on Actor (context menu): PaperSpriteActor (PurpleBackground_Sprite)
+[2018.01.12-16.29.44:336][113]LogEditorViewport: Clicking on Actor (context menu): PaperSpriteActor (PurpleBackground_Sprite)
+[2018.01.12-16.29.44:600][113]LogEditorViewport: Clicking on Actor (context menu): PaperSpriteActor (PurpleBackground_Sprite)
+[2018.01.12-16.29.45:743][132]LogEditorViewport: Clicking Background
+[2018.01.12-16.29.48:227][202]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight)
+[2018.01.12-16.30.00:664][524]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.01.12-16.30.00:768][524]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.12-16.30.00:768][524]PIE: New page: PIE session: TestsMap (Jan 12, 2018, 6:30:00 PM)
+[2018.01.12-16.30.00:769][524]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestsMap
+[2018.01.12-16.30.00:775][524]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006470s)
+[2018.01.12-16.30.00:778][524]LogAIModule: Creating AISystem for world TestsMap
+[2018.01.12-16.30.00:779][524]LogPlayLevel: PIE: World Init took: (0.003063s)
+[2018.01.12-16.30.00:779][524]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestsMap.TestsMap to /Game/Maps/UEDPIE_0_TestsMap.TestsMap (0.010604s)
+[2018.01.12-16.30.00:910][524]LogInit: XAudio2 using 'Haut-parleurs (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.12-16.30.00:970][524]LogInit: FAudioDevice initialized.
+[2018.01.12-16.30.01:061][524]LogLoad: Game class is 'AoGameMode_C'
+[2018.01.12-16.30.01:068][524]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestsMap.TestsMap up for play (max tick rate 60) at 2018.01.12-17.30.01
+[2018.01.12-16.30.01:069][524]LogWorld: Bringing up level for play took: 0.004827
+[2018.01.12-16.30.01:092][524]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_TestsMap 0.89
+[2018.01.12-16.30.18:742][ 59]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2018.01.12-16.30.19:448][ 74]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.01.12-16.30.19:553][ 74]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.12-16.30.19:553][ 74]PIE: New page: PIE session: TestsMap (Jan 12, 2018, 6:30:19 PM)
+[2018.01.12-16.30.19:554][ 74]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestsMap
+[2018.01.12-16.30.19:561][ 74]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007508s)
+[2018.01.12-16.30.19:564][ 74]LogAIModule: Creating AISystem for world TestsMap
+[2018.01.12-16.30.19:565][ 74]LogPlayLevel: PIE: World Init took: (0.003225s)
+[2018.01.12-16.30.19:566][ 74]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestsMap.TestsMap to /Game/Maps/UEDPIE_0_TestsMap.TestsMap (0.011922s)
+[2018.01.12-16.30.19:681][ 74]LogInit: XAudio2 using 'Haut-parleurs (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.12-16.30.19:735][ 74]LogInit: FAudioDevice initialized.
+[2018.01.12-16.30.19:822][ 74]LogLoad: Game class is 'AoGameMode_C'
+[2018.01.12-16.30.19:828][ 74]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestsMap.TestsMap up for play (max tick rate 60) at 2018.01.12-17.30.19
+[2018.01.12-16.30.19:829][ 74]LogWorld: Bringing up level for play took: 0.004182
+[2018.01.12-16.30.19:851][ 74]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_TestsMap -0.351
+[2018.01.12-16.35.45:648][533]LogSavePackage: Save=122.97ms
+[2018.01.12-16.35.45:649][533]LogSavePackage: Moving '../../../../../../Users/Thomas Lamson/Documents/Unreal Projects/Ao/Saved/TestsMap_Auto0AE2F3CF445DA502B6CF0998FEA0A6FD3.tmp' to '../../../../../../Users/Thomas Lamson/Documents/Unreal Projects/Ao/Saved/Autosaves/Game/Maps/TestsMap_Auto0.umap'
+[2018.01.12-16.35.45:655][533]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Thomas Lamson/Documents/Unreal Projects/Ao/Saved/Autosaves/Game/Maps/TestsMap_Auto0.umap
+[2018.01.12-16.35.45:674][533]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/TestsMap' took 0.334
+[2018.01.12-16.35.45:675][533]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.334
+[2018.01.12-16.40.43:739][199]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.01.12-16.40.43:837][199]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.01.12-16.40.43:848][199]LogPlayLevel: [PlayLevel] Compiling AoCharacter before play...
+[2018.01.12-16.40.44:822][199]LogPlayLevel: PlayLevel: Blueprint regeneration took 985 ms (1 blueprints)
+[2018.01.12-16.40.44:823][199]PIE: New page: PIE session: TestsMap (Jan 12, 2018, 6:40:44 PM)
+[2018.01.12-16.40.44:824][199]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestsMap
+[2018.01.12-16.40.44:835][199]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011050s)
+[2018.01.12-16.40.44:837][199]LogAIModule: Creating AISystem for world TestsMap
+[2018.01.12-16.40.44:838][199]LogPlayLevel: PIE: World Init took: (0.002697s)
+[2018.01.12-16.40.44:839][199]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestsMap.TestsMap to /Game/Maps/UEDPIE_0_TestsMap.TestsMap (0.014998s)
+[2018.01.12-16.40.44:959][199]LogInit: XAudio2 using 'Haut-parleurs (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.12-16.40.45:014][199]LogInit: FAudioDevice initialized.
+[2018.01.12-16.40.45:135][199]LogLoad: Game class is 'AoGameMode_C'
+[2018.01.12-16.40.45:140][199]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestsMap.TestsMap up for play (max tick rate 60) at 2018.01.12-17.40.45
+[2018.01.12-16.40.45:141][199]LogWorld: Bringing up level for play took: 0.003578
+[2018.01.12-16.40.45:167][199]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_TestsMap 0.965
+[2018.01.12-16.41.56:648][105]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2018.01.12-16.41.57:614][132]LogEditorViewport: Clicking Background
+[2018.01.12-16.43.08:295][777]LogPaper2D: Triangulation of poly failed.
+[2018.01.12-16.43.08:334][778]LogPaper2D: Triangulation of poly failed.
+[2018.01.12-16.43.08:378][779]LogPaper2D: Triangulation of poly failed.
+[2018.01.12-16.43.08:416][780]LogPaper2D: Triangulation of poly failed.
+[2018.01.12-16.43.08:458][781]LogPaper2D: Triangulation of poly failed.
+[2018.01.12-16.43.08:496][782]LogPaper2D: Triangulation of poly failed.
+[2018.01.12-16.43.08:540][783]LogPaper2D: Triangulation of poly failed.
+[2018.01.12-16.43.08:582][784]LogPaper2D: Triangulation of poly failed.
+[2018.01.12-16.43.08:626][785]LogPaper2D: Triangulation of poly failed.
+[2018.01.12-16.43.08:668][786]LogPaper2D: Triangulation of poly failed.
+[2018.01.12-16.43.08:719][787]LogPaper2D: Triangulation of poly failed.
+[2018.01.12-16.43.08:766][788]LogPaper2D: Triangulation of poly failed.
+[2018.01.12-16.43.08:808][789]LogPaper2D: Triangulation of poly failed.
+[2018.01.12-16.43.08:854][790]LogPaper2D: Triangulation of poly failed.
+[2018.01.12-16.43.08:898][791]LogPaper2D: Triangulation of poly failed.
+[2018.01.12-16.43.08:939][792]LogPaper2D: Triangulation of poly failed.
+[2018.01.12-16.43.08:984][793]LogPaper2D: Triangulation of poly failed.
+[2018.01.12-16.43.09:025][794]LogPaper2D: Triangulation of poly failed.
+[2018.01.12-16.43.09:073][795]LogPaper2D: Triangulation of poly failed.
+[2018.01.12-16.43.09:116][796]LogPaper2D: Triangulation of poly failed.
+[2018.01.12-16.43.09:170][797]LogPaper2D: Triangulation of poly failed.
+[2018.01.12-16.43.09:220][798]LogPaper2D: Triangulation of poly failed.
+[2018.01.12-16.43.09:268][799]LogPaper2D: Triangulation of poly failed.
+[2018.01.12-16.43.09:318][800]LogPaper2D: Triangulation of poly failed.
+[2018.01.12-16.43.09:360][801]LogPaper2D: Triangulation of poly failed.
+[2018.01.12-16.43.09:406][802]LogPaper2D: Triangulation of poly failed.
+[2018.01.12-16.43.09:452][803]LogPaper2D: Triangulation of poly failed.
+[2018.01.12-16.43.09:496][804]LogPaper2D: Triangulation of poly failed.
+[2018.01.12-16.43.09:537][805]LogPaper2D: Triangulation of poly failed.
+[2018.01.12-16.43.09:580][806]LogPaper2D: Triangulation of poly failed.
+[2018.01.12-16.43.09:623][807]LogPaper2D: Triangulation of poly failed.
+[2018.01.12-16.43.09:662][808]LogPaper2D: Triangulation of poly failed.
+[2018.01.12-16.43.09:703][809]LogPaper2D: Triangulation of poly failed.
+[2018.01.12-16.43.09:746][810]LogPaper2D: Triangulation of poly failed.
+[2018.01.12-16.43.09:790][811]LogPaper2D: Triangulation of poly failed.
+[2018.01.12-16.43.09:829][812]LogPaper2D: Triangulation of poly failed.
+[2018.01.12-16.43.09:867][813]LogPaper2D: Triangulation of poly failed.
+[2018.01.12-16.43.09:910][814]LogPaper2D: Triangulation of poly failed.
+[2018.01.12-16.43.09:954][815]LogPaper2D: Triangulation of poly failed.
+[2018.01.12-16.43.09:995][816]LogPaper2D: Triangulation of poly failed.
+[2018.01.12-16.43.10:039][817]LogPaper2D: Triangulation of poly failed.
+[2018.01.12-16.43.10:083][818]LogPaper2D: Triangulation of poly failed.
+[2018.01.12-16.43.10:129][819]LogPaper2D: Triangulation of poly failed.
+[2018.01.12-16.43.10:170][820]LogPaper2D: Triangulation of poly failed.
+[2018.01.12-16.43.10:219][821]LogPaper2D: Triangulation of poly failed.
+[2018.01.12-16.43.10:263][822]LogPaper2D: Triangulation of poly failed.
+[2018.01.12-16.43.10:303][823]LogPaper2D: Triangulation of poly failed.
+[2018.01.12-16.43.10:342][824]LogPaper2D: Triangulation of poly failed.
+[2018.01.12-16.43.10:388][825]LogPaper2D: Triangulation of poly failed.
+[2018.01.12-16.43.10:433][826]LogPaper2D: Triangulation of poly failed.
+[2018.01.12-16.43.10:477][827]LogPaper2D: Triangulation of poly failed.
+[2018.01.12-16.43.10:522][828]LogPaper2D: Triangulation of poly failed.
+[2018.01.12-16.43.10:563][829]LogPaper2D: Triangulation of poly failed.
+[2018.01.12-16.43.10:609][830]LogPaper2D: Triangulation of poly failed.
+[2018.01.12-16.43.10:657][831]LogPaper2D: Triangulation of poly failed.
+[2018.01.12-16.45.29:994][734]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sprites/Test/GreenTiles_TileSet" FILE="../../../../../../Users/Thomas Lamson/Documents/Unreal Projects/Ao/Content/Sprites/Test/GreenTiles_TileSet.uasset" SILENT=true
+[2018.01.12-16.45.30:333][734]LogSavePackage: Save=249.85ms
+[2018.01.12-16.45.30:334][734]LogSavePackage: Moving '../../../../../../Users/Thomas Lamson/Documents/Unreal Projects/Ao/Saved/GreenTiles_TileSet2E78725C4FE88685E7E221BF1C130370.tmp' to '../../../../../../Users/Thomas Lamson/Documents/Unreal Projects/Ao/Content/Sprites/Test/GreenTiles_TileSet.uasset'
+[2018.01.12-16.45.30:365][734]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Thomas Lamson/Documents/Unreal Projects/Ao/Content/Sprites/Test/GreenTiles_TileSet.uasset
+[2018.01.12-16.45.32:545][767]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/AoCharacter" FILE="../../../../../../Users/Thomas Lamson/Documents/Unreal Projects/Ao/Content/Character/AoCharacter.uasset" SILENT=true
+[2018.01.12-16.45.32:659][767]LogSavePackage: Save=70.42ms
+[2018.01.12-16.45.32:659][767]LogSavePackage: Moving '../../../../../../Users/Thomas Lamson/Documents/Unreal Projects/Ao/Saved/AoCharacter2453CAC64071307E3D6873A32FEDA4C6.tmp' to '../../../../../../Users/Thomas Lamson/Documents/Unreal Projects/Ao/Content/Character/AoCharacter.uasset'
+[2018.01.12-16.45.32:672][767]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Thomas Lamson/Documents/Unreal Projects/Ao/Content/Character/AoCharacter.uasset
+[2018.01.12-16.46.09:735][658]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sprites/Test/TemplateTileMap" FILE="../../../../../../Users/Thomas Lamson/Documents/Unreal Projects/Ao/Content/Sprites/Test/TemplateTileMap.uasset" SILENT=true
+[2018.01.12-16.46.10:101][658]LogSavePackage: Save=323.69ms
+[2018.01.12-16.46.10:101][658]LogSavePackage: Moving '../../../../../../Users/Thomas Lamson/Documents/Unreal Projects/Ao/Saved/TemplateTileMap8574E92741B828DCDDA26F9706D6A564.tmp' to '../../../../../../Users/Thomas Lamson/Documents/Unreal Projects/Ao/Content/Sprites/Test/TemplateTileMap.uasset'
+[2018.01.12-16.46.10:114][658]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Thomas Lamson/Documents/Unreal Projects/Ao/Content/Sprites/Test/TemplateTileMap.uasset
+[2018.01.12-16.46.45:397][424]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sprites/Test/TemplateTileMap" FILE="../../../../../../Users/Thomas Lamson/Documents/Unreal Projects/Ao/Content/Sprites/Test/TemplateTileMap.uasset" SILENT=true
+[2018.01.12-16.46.45:754][424]LogSavePackage: Save=331.33ms
+[2018.01.12-16.46.45:754][424]LogSavePackage: Moving '../../../../../../Users/Thomas Lamson/Documents/Unreal Projects/Ao/Saved/TemplateTileMap02E5D0044C916672C77427A8BB4C0B26.tmp' to '../../../../../../Users/Thomas Lamson/Documents/Unreal Projects/Ao/Content/Sprites/Test/TemplateTileMap.uasset'
+[2018.01.12-16.46.45:766][424]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Thomas Lamson/Documents/Unreal Projects/Ao/Content/Sprites/Test/TemplateTileMap.uasset
+[2018.01.12-16.48.06:494][264]LogMetaData: Removing '/Game/Character/AoCharacter.AoCharacter:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Character/AoCharacter2D.PackageMetaData'
+[2018.01.12-16.48.06:494][264]LogMetaData: Removing '/Game/Character/AoCharacter.SKEL_AoCharacter_C' ref from Metadata '/Game/Character/AoCharacter2D.PackageMetaData'
+[2018.01.12-16.48.06:494][264]LogMetaData: Removing '/Game/Character/AoCharacter.AoCharacter_C' ref from Metadata '/Game/Character/AoCharacter2D.PackageMetaData'
+[2018.01.12-16.48.06:494][264]LogMetaData: Removing '/Game/Character/AoCharacter.AoCharacter:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Character/AoCharacter2D.PackageMetaData'
+[2018.01.12-16.48.06:494][264]LogMetaData: Removing '/Game/Character/AoCharacter.AoCharacter:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Character/AoCharacter2D.PackageMetaData'
+[2018.01.12-16.48.06:495][264]LogMetaData: Removing '/Game/Character/AoCharacter.AoCharacter:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Character/AoCharacter2D.PackageMetaData'
+[2018.01.12-16.48.06:599][264]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/AoCharacter" FILE="../../../../../../Users/Thomas Lamson/Documents/Unreal Projects/Ao/Content/Character/AoCharacter.uasset" SILENT=true
+[2018.01.12-16.48.06:701][264]LogSavePackage: Save=91.60ms
+[2018.01.12-16.48.06:701][264]LogSavePackage: Moving '../../../../../../Users/Thomas Lamson/Documents/Unreal Projects/Ao/Saved/AoCharacter33023D84428A7C9A2E3D8D927441F943.tmp' to '../../../../../../Users/Thomas Lamson/Documents/Unreal Projects/Ao/Content/Character/AoCharacter.uasset'
+[2018.01.12-16.48.06:720][264]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Thomas Lamson/Documents/Unreal Projects/Ao/Content/Character/AoCharacter.uasset
+[2018.01.12-16.48.10:365][323]LogTabManager: Warning: Cannot spawn tab because no spawner is registered for 'CompilerResults'
+[2018.01.12-16.48.16:540][442]LogSlate: Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.01.12-16.48.22:007][586]BlueprintLog: New page: Compile AoGameMode
+[2018.01.12-16.48.23:517][594]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/AoGameMode" FILE="../../../../../../Users/Thomas Lamson/Documents/Unreal Projects/Ao/Content/Character/AoGameMode.uasset" SILENT=true
+[2018.01.12-16.48.23:717][594]LogSavePackage: Save=64.21ms
+[2018.01.12-16.48.23:812][594]LogSavePackage: Moving '../../../../../../Users/Thomas Lamson/Documents/Unreal Projects/Ao/Saved/AoGameMode4F4A8CD24F618D68A4DC21970CC5EB09.tmp' to '../../../../../../Users/Thomas Lamson/Documents/Unreal Projects/Ao/Content/Character/AoGameMode.uasset'
+[2018.01.12-16.48.23:829][594]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Thomas Lamson/Documents/Unreal Projects/Ao/Content/Character/AoGameMode.uasset
+[2018.01.12-16.51.24:421][ 81]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/Thomas Lamson/Documents/Unreal Projects/Ao/Resources/Test/Charac-Standing.png)
+[2018.01.12-16.51.24:435][ 81]LogTexture: Display: Building textures: Charac-Standing (AutoDXT, 128X64)
+[2018.01.12-16.51.30:337][230]LogSavePackage: Save=36.71ms
+[2018.01.12-16.51.30:337][230]LogSavePackage: Moving '../../../../../../Users/Thomas Lamson/Documents/Unreal Projects/Ao/Saved/Charac-Standing335701C04E7E7A46E1B02EB70F2A6B6E.tmp' to '../../../../../../Users/Thomas Lamson/Documents/Unreal Projects/Ao/Content/Sprites/Character/Charac-Standing.uasset'
+[2018.01.12-16.51.30:359][230]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Thomas Lamson/Documents/Unreal Projects/Ao/Content/Sprites/Character/Charac-Standing.uasset
+[2018.01.12-16.52.10:199][433]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sprites/Character/Chara-Standing" FILE="../../../../../../Users/Thomas Lamson/Documents/Unreal Projects/Ao/Content/Sprites/Character/Chara-Standing.uasset" SILENT=true
+[2018.01.12-16.52.10:242][433]LogSavePackage: Save=33.61ms
+[2018.01.12-16.52.10:242][433]LogSavePackage: Moving '../../../../../../Users/Thomas Lamson/Documents/Unreal Projects/Ao/Saved/Chara-Standing61D87AB040EAD4CE92A8379F3FC7BC69.tmp' to '../../../../../../Users/Thomas Lamson/Documents/Unreal Projects/Ao/Content/Sprites/Character/Chara-Standing.uasset'
+[2018.01.12-16.52.10:264][433]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Thomas Lamson/Documents/Unreal Projects/Ao/Content/Sprites/Character/Chara-Standing.uasset
+[2018.01.12-16.53.07:425][927]LogSavePackage: Save=33.93ms
+[2018.01.12-16.53.07:425][927]LogSavePackage: Moving '../../../../../../Users/Thomas Lamson/Documents/Unreal Projects/Ao/Saved/Charac-Standing_TileSet2CE1E91C43F25A5CF0E3A6B83AC41AFE.tmp' to '../../../../../../Users/Thomas Lamson/Documents/Unreal Projects/Ao/Content/Sprites/Character/Charac-Standing_TileSet.uasset'
+[2018.01.12-16.53.07:439][927]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Thomas Lamson/Documents/Unreal Projects/Ao/Content/Sprites/Character/Charac-Standing_TileSet.uasset
+[2018.01.12-16.55.49:641][456]LogAssetTools: Warning: Failed to delete '/Game/Sprites/Character/Charac-Standing'. The asset is referenced by other content.
+[2018.01.12-16.56.02:093][636]LogFactory: FactoryCreateFile: DataTable with ReimportDataTableFactory (0 1 ../../../../../../Users/Thomas Lamson/Documents/Unreal Projects/Ao/Resources/Test/Charac-Standing.json)
+[2018.01.12-16.56.12:269][636]LogAssetTools: Warning: Failed to import '../../../../../../Users/Thomas Lamson/Documents/Unreal Projects/Ao/Resources/Test/Charac-Standing.json'. Failed to create asset '/Game/Sprites/Character/Charac-Standing'.
+Please see Output Log for details.
+[2018.01.12-17.00.14:181][572]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/Thomas Lamson/Documents/Unreal Projects/Ao/Resources/Test/Charac-Standing.png)
+[2018.01.12-17.00.14:198][572]LogTexture: Display: Building textures: Charac-Standing (AutoDXT, 128X64)
+[2018.01.12-17.00.34:412][115]LogSavePackage: Save=31.55ms
+[2018.01.12-17.00.34:412][115]LogSavePackage: Moving '../../../../../../Users/Thomas Lamson/Documents/Unreal Projects/Ao/Saved/Charac-StandingB8564D294167250CFA46369D74D5BE31.tmp' to '../../../../../../Users/Thomas Lamson/Documents/Unreal Projects/Ao/Content/Sprites/Character/Charac-Standing.uasset'
+[2018.01.12-17.00.34:433][115]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Thomas Lamson/Documents/Unreal Projects/Ao/Content/Sprites/Character/Charac-Standing.uasset
+[2018.01.12-17.01.17:713][314]LogSavePackage: Save=69.13ms
+[2018.01.12-17.01.17:713][314]LogSavePackage: Moving '../../../../../../Users/Thomas Lamson/Documents/Unreal Projects/Ao/Saved/Charac-Standing43EB5DF847A06F4AEAD9249E267EC84D.tmp' to '../../../../../../Users/Thomas Lamson/Documents/Unreal Projects/Ao/Content/Sprites/Character/Charac-Standing.uasset'
+[2018.01.12-17.01.17:732][314]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Thomas Lamson/Documents/Unreal Projects/Ao/Content/Sprites/Character/Charac-Standing.uasset
+[2018.01.12-17.01.25:621][542]LogTexture: Display: Building textures: Charac-Standing (BGRA8, 128X64)
+[2018.01.12-17.01.54:524][110]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2018.01.12-17.01.55:046][114]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.Ao
+[2018.01.12-17.01.55:046][114]LogTemp: CWD: C:\Program Files\Epic Games\UE_4.18\Engine\Binaries\DotNET\IOS
+[2018.01.12-17.01.55:046][114]LogTemp: Initial Dir: C:\Program Files\Epic Games\UE_4.18
+[2018.01.12-17.01.55:046][114]LogTemp: Env CWD: C:\Program Files\Epic Games\UE_4.18\Engine\Binaries\DotNET\IOS
+[2018.01.12-17.01.55:087][115]LogTemp: BranchPath = DESKTOP-DM246LS/C/Program Files/Epic Games/UE_4.18/Engine/Binaries --- GameBranchPath = DESKTOP-DM246LS/C/Program Files/Epic Games/UE_4.18/Engine/Binaries
+[2018.01.12-17.01.55:168][117]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\Thomas Lamson\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2018.01.12-17.02.45:123][426]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2018.01.12-17.02.45:599][431]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.Ao
+[2018.01.12-17.02.45:599][431]LogTemp: CWD: C:\Program Files\Epic Games\UE_4.18\Engine\Binaries\DotNET\IOS
+[2018.01.12-17.02.45:599][431]LogTemp: Initial Dir: C:\Program Files\Epic Games\UE_4.18
+[2018.01.12-17.02.45:599][431]LogTemp: Env CWD: C:\Program Files\Epic Games\UE_4.18\Engine\Binaries\DotNET\IOS
+[2018.01.12-17.02.45:607][431]LogTemp: BranchPath = DESKTOP-DM246LS/C/Program Files/Epic Games/UE_4.18/Engine/Binaries --- GameBranchPath = DESKTOP-DM246LS/C/Program Files/Epic Games/UE_4.18/Engine/Binaries
+[2018.01.12-17.02.45:680][432]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\Thomas Lamson\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2018.01.12-17.03.23:648][663]LogSlate: Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.01.12-17.04.23:431][259]LogPaper2D: Triangulation of poly failed.
+[2018.01.12-17.04.34:620][370]LogPaper2D: Triangulation of poly failed.
+[2018.01.12-17.04.41:702][427]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/TestsMap' took 0.130
+[2018.01.12-17.04.41:712][427]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Sprites/Character/Charac-Standing] ([1] browsable assets)...
+[2018.01.12-17.04.41:721][427]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Sprites/Character/Charac-Standing.Charac-Standing]
+[2018.01.12-17.04.41:721][427]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sprites/Character/Charac-Standing]
+[2018.01.12-17.04.41:807][427]LogSavePackage: Save=53.04ms
+[2018.01.12-17.04.41:808][427]LogSavePackage: Moving '../../../../../../Users/Thomas Lamson/Documents/Unreal Projects/Ao/Saved/Charac-Standing_Auto1941303A24DD54B80B376549EC3B132AD.tmp' to '../../../../../../Users/Thomas Lamson/Documents/Unreal Projects/Ao/Saved/Autosaves/Game/Sprites/Character/Charac-Standing_Auto1.uasset'
+[2018.01.12-17.04.41:815][427]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Thomas Lamson/Documents/Unreal Projects/Ao/Saved/Autosaves/Game/Sprites/Character/Charac-Standing_Auto1.uasset
+[2018.01.12-17.04.41:818][427]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Sprites/Character/Charac-Standing_Sprite] ([1] browsable assets)...
+[2018.01.12-17.04.41:863][427]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Sprites/Character/Charac-Standing_Sprite.Charac-Standing_Sprite]
+[2018.01.12-17.04.41:863][427]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sprites/Character/Charac-Standing_Sprite]
+[2018.01.12-17.04.41:912][427]LogSavePackage: Save=40.76ms
+[2018.01.12-17.04.41:917][427]LogSavePackage: Moving '../../../../../../Users/Thomas Lamson/Documents/Unreal Projects/Ao/Saved/Charac-Standing_Sprite_Auto111D9A9024E3B17F7FB725481D3A7E4EE.tmp' to '../../../../../../Users/Thomas Lamson/Documents/Unreal Projects/Ao/Saved/Autosaves/Game/Sprites/Character/Charac-Standing_Sprite_Auto1.uasset'
+[2018.01.12-17.04.41:923][427]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Thomas Lamson/Documents/Unreal Projects/Ao/Saved/Autosaves/Game/Sprites/Character/Charac-Standing_Sprite_Auto1.uasset
+[2018.01.12-17.04.41:926][427]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Sprites/Character/NewPaperFlipbook] ([1] browsable assets)...
+[2018.01.12-17.04.41:967][427]OBJ SavePackage:     Rendered thumbnail for [PaperFlipbook /Game/Sprites/Character/NewPaperFlipbook.NewPaperFlipbook]
+[2018.01.12-17.04.41:967][427]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sprites/Character/NewPaperFlipbook]
+[2018.01.12-17.04.42:009][427]LogSavePackage: Save=33.95ms
+[2018.01.12-17.04.42:010][427]LogSavePackage: Moving '../../../../../../Users/Thomas Lamson/Documents/Unreal Projects/Ao/Saved/NewPaperFlipbook_Auto1A3120382432E0FED1A63C484582821D0.tmp' to '../../../../../../Users/Thomas Lamson/Documents/Unreal Projects/Ao/Saved/Autosaves/Game/Sprites/Character/NewPaperFlipbook_Auto1.uasset'
+[2018.01.12-17.04.42:018][427]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Thomas Lamson/Documents/Unreal Projects/Ao/Saved/Autosaves/Game/Sprites/Character/NewPaperFlipbook_Auto1.uasset
+[2018.01.12-17.04.42:019][427]LogFileHelpers: Auto-saving content packages took 0.310
+[2018.01.12-17.05.00:264][900]LogSavePackage: Save=50.36ms
+[2018.01.12-17.05.00:264][900]LogSavePackage: Moving '../../../../../../Users/Thomas Lamson/Documents/Unreal Projects/Ao/Saved/Charac-Standing_Sprite0B5485C8491F9907D14CABAB64B774FE.tmp' to '../../../../../../Users/Thomas Lamson/Documents/Unreal Projects/Ao/Content/Sprites/Character/Charac-Standing_Sprite.uasset'
+[2018.01.12-17.05.00:481][900]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Thomas Lamson/Documents/Unreal Projects/Ao/Content/Sprites/Character/Charac-Standing_Sprite.uasset
+[2018.01.12-17.06.33:176][ 41]LogSavePackage: Save=52.28ms
+[2018.01.12-17.06.33:177][ 41]LogSavePackage: Moving '../../../../../../Users/Thomas Lamson/Documents/Unreal Projects/Ao/Saved/Charac-Standing_Sprite8FEEFC484F2426B1827C7A9E51E4DC8F.tmp' to '../../../../../../Users/Thomas Lamson/Documents/Unreal Projects/Ao/Content/Sprites/Character/Charac-Standing_Sprite.uasset'
+[2018.01.12-17.06.33:195][ 41]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Thomas Lamson/Documents/Unreal Projects/Ao/Content/Sprites/Character/Charac-Standing_Sprite.uasset
+[2018.01.12-17.08.19:603][823]LogSavePackage: Save=39.36ms
+[2018.01.12-17.08.19:603][823]LogSavePackage: Moving '../../../../../../Users/Thomas Lamson/Documents/Unreal Projects/Ao/Saved/Chara-Standing-Anim7282D6C1409FAED945A7E7B0318CDDF1.tmp' to '../../../../../../Users/Thomas Lamson/Documents/Unreal Projects/Ao/Content/Sprites/Character/Chara-Standing-Anim.uasset'
+[2018.01.12-17.08.19:636][823]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Thomas Lamson/Documents/Unreal Projects/Ao/Content/Sprites/Character/Chara-Standing-Anim.uasset
+[2018.01.12-17.08.59:457][644]BlueprintLog: New page: Compile AoCharacter
+[2018.01.12-17.09.01:236][654]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/AoCharacter" FILE="../../../../../../Users/Thomas Lamson/Documents/Unreal Projects/Ao/Content/Character/AoCharacter.uasset" SILENT=true
+[2018.01.12-17.09.01:442][654]LogSavePackage: Save=93.85ms
+[2018.01.12-17.09.01:442][654]LogSavePackage: Moving '../../../../../../Users/Thomas Lamson/Documents/Unreal Projects/Ao/Saved/AoCharacter24709C474F51B99BAC0AADBFCACF6F0B.tmp' to '../../../../../../Users/Thomas Lamson/Documents/Unreal Projects/Ao/Content/Character/AoCharacter.uasset'
+[2018.01.12-17.09.01:459][654]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Thomas Lamson/Documents/Unreal Projects/Ao/Content/Character/AoCharacter.uasset
+[2018.01.12-17.09.03:971][710]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.01.12-17.09.04:061][710]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.12-17.09.04:062][710]PIE: New page: PIE session: TestsMap (Jan 12, 2018, 7:09:04 PM)
+[2018.01.12-17.09.04:063][710]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestsMap
+[2018.01.12-17.09.04:068][710]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005634s)
+[2018.01.12-17.09.04:070][710]LogAIModule: Creating AISystem for world TestsMap
+[2018.01.12-17.09.04:071][710]LogPlayLevel: PIE: World Init took: (0.002313s)
+[2018.01.12-17.09.04:072][710]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestsMap.TestsMap to /Game/Maps/UEDPIE_0_TestsMap.TestsMap (0.009346s)
+[2018.01.12-17.09.04:180][710]LogInit: XAudio2 using 'Haut-parleurs (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.12-17.09.04:237][710]LogInit: FAudioDevice initialized.
+[2018.01.12-17.09.04:354][710]LogLoad: Game class is 'AoGameMode_C'
+[2018.01.12-17.09.04:361][710]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestsMap.TestsMap up for play (max tick rate 60) at 2018.01.12-18.09.04
+[2018.01.12-17.09.04:364][710]LogWorld: Bringing up level for play took: 0.006989
+[2018.01.12-17.09.04:384][710]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_TestsMap 0.181
+[2018.01.12-17.09.12:563][920]LogEditorViewport: Clicking Background
+[2018.01.12-17.09.22:459][122]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2018.01.12-17.09.22:975][128]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.Ao
+[2018.01.12-17.09.22:975][128]LogTemp: CWD: C:\Program Files\Epic Games\UE_4.18\Engine\Binaries\DotNET\IOS
+[2018.01.12-17.09.22:975][128]LogTemp: Initial Dir: C:\Program Files\Epic Games\UE_4.18
+[2018.01.12-17.09.22:976][128]LogTemp: Env CWD: C:\Program Files\Epic Games\UE_4.18\Engine\Binaries\DotNET\IOS
+[2018.01.12-17.09.22:976][128]LogTemp: BranchPath = DESKTOP-DM246LS/C/Program Files/Epic Games/UE_4.18/Engine/Binaries --- GameBranchPath = DESKTOP-DM246LS/C/Program Files/Epic Games/UE_4.18/Engine/Binaries
+[2018.01.12-17.09.23:025][128]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\Thomas Lamson\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2018.01.12-17.09.33:020][403]LogSlate: Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.01.12-17.09.42:368][651]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2018.01.12-17.09.43:350][678]LogEditorViewport: Clicking Background
+[2018.01.12-17.09.43:948][701]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (Player Start)
+[2018.01.12-17.10.22:580][674]EditorErrors: New page: Actor attachment
+[2018.01.12-17.10.25:360][756]LogEditorViewport: Clicking Background
+[2018.01.12-17.10.26:286][790]LogEditorViewport: Clicking on Actor (LMB): CameraActor (CameraActor)
+[2018.01.12-17.10.27:612][811]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.01.12-17.10.27:729][811]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.12-17.10.27:730][811]PIE: New page: PIE session: TestsMap (Jan 12, 2018, 7:10:27 PM)
+[2018.01.12-17.10.27:731][811]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestsMap
+[2018.01.12-17.10.27:739][811]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008064s)
+[2018.01.12-17.10.27:742][811]LogAIModule: Creating AISystem for world TestsMap
+[2018.01.12-17.10.27:743][811]LogPlayLevel: PIE: World Init took: (0.003412s)
+[2018.01.12-17.10.27:744][811]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestsMap.TestsMap to /Game/Maps/UEDPIE_0_TestsMap.TestsMap (0.012788s)
+[2018.01.12-17.10.27:900][811]LogInit: XAudio2 using 'Haut-parleurs (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.12-17.10.27:944][811]LogInit: FAudioDevice initialized.
+[2018.01.12-17.10.28:036][811]LogLoad: Game class is 'AoGameMode_C'
+[2018.01.12-17.10.28:068][811]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestsMap.TestsMap up for play (max tick rate 60) at 2018.01.12-18.10.28
+[2018.01.12-17.10.28:069][811]LogWorld: Bringing up level for play took: 0.031333
+[2018.01.12-17.10.28:085][811]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_TestsMap -0.118
+[2018.01.12-17.10.36:346][ 60]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight)
+[2018.01.12-17.10.41:395][203]LogEditorViewport: Clicking on Actor (LMB): CameraActor (CameraActor)
+[2018.01.12-17.10.51:210][464]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.01.12-17.10.51:285][464]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.12-17.10.51:286][464]PIE: New page: PIE session: TestsMap (Jan 12, 2018, 7:10:51 PM)
+[2018.01.12-17.10.51:286][464]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestsMap
+[2018.01.12-17.10.51:293][464]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005927s)
+[2018.01.12-17.10.51:295][464]LogAIModule: Creating AISystem for world TestsMap
+[2018.01.12-17.10.51:295][464]LogPlayLevel: PIE: World Init took: (0.002381s)
+[2018.01.12-17.10.51:296][464]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestsMap.TestsMap to /Game/Maps/UEDPIE_0_TestsMap.TestsMap (0.009315s)
+[2018.01.12-17.10.51:435][464]LogInit: XAudio2 using 'Haut-parleurs (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.12-17.10.51:480][464]LogInit: FAudioDevice initialized.
+[2018.01.12-17.10.51:577][464]LogLoad: Game class is 'AoGameMode_C'
+[2018.01.12-17.10.51:584][464]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestsMap.TestsMap up for play (max tick rate 60) at 2018.01.12-18.10.51
+[2018.01.12-17.10.51:586][464]LogWorld: Bringing up level for play took: 0.005821
+[2018.01.12-17.10.51:604][464]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_TestsMap -0.599
+[2018.01.12-17.11.05:647][905]MapCheck: New page: Map Check
+[2018.01.12-17.11.05:716][905]Cmd: MAP REBUILD ALLVISIBLE
+[2018.01.12-17.11.05:717][905]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2018.01.12-17.11.05:960][905]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy WorldGridMaterial, compiling. Is special engine material.
+[2018.01.12-17.11.06:008][905]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy DefaultLitSpriteMaterial, compiling. 
+[2018.01.12-17.11.06:051][905]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy BasicShapeMaterial, compiling. 
+[2018.01.12-17.11.06:093][905]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy MatineeCam_mat, compiling. 
+[2018.01.12-17.11.08:876][905]TextureStreamingBuild: Display: Compiling optional shaders took 2.976 seconds.
+[2018.01.12-17.11.08:893][905]LogLevel: Display: Export Material TexCoord Scales took 0.017 seconds.
+[2018.01.12-17.11.08:907][905]TextureStreamingBuild: Display: Build Texture Streaming took 0.013 seconds.
+[2018.01.12-17.11.08:977][905]LightingResults: New page: Lighting Build - Jan 12, 2018, 7:11:08 PM
+[2018.01.12-17.11.09:011][905]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2018.01.12-17.11.09:021][905]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2018.01.12-17.11.09:021][905]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2018.01.12-17.11.09:027][905]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2018.01.12-17.11.09:027][905]LogSwarmInterface: [TryOpenConnection] Local Process ID is 4796
+[2018.01.12-17.11.13:556][905]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2018.01.12-17.11.13:557][905]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2018.01.12-17.11.13:557][905]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2018.01.12-17.11.13:557][905]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2018.01.12-17.11.13:557][905]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2018.01.12-17.11.13:557][905]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2018.01.12-17.11.13:973][905]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2018.01.12-17.11.13:974][905]MapCheck: New page: TestsMap - Jan 12, 2018, 7:11:13 PM
+[2018.01.12-17.11.13:976][905]MapCheck: Error: WorldSettings_1 Maps need lighting rebuilt 
+[2018.01.12-17.11.14:434][905]MapCheck: Map check complete: 1 Error(s), 0 Warning(s), took 460.725ms to complete.
+[2018.01.12-17.11.14:460][905]LogEditorBuildUtils: Build time 0:08
+[2018.01.12-17.11.20:634][999]Job is a success!
+[2018.01.12-17.11.20:833][  0]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.026s
+[2018.01.12-17.11.20:833][  0]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2018.01.12-17.11.20:834][  0]LogVolumetricLightmapImport:      BrickData 10x5x5 = 0.0Mb
+[2018.01.12-17.11.20:834][  0]LogVolumetricLightmapImport:      Bricks at Level
+[2018.01.12-17.11.20:834][  0]LogVolumetricLightmapImport:          0: 50.0% covering 100.0% of volume
+[2018.01.12-17.11.20:834][  0]LogVolumetricLightmapImport:          1: 50.0% covering 1.6% of volume
+[2018.01.12-17.11.20:834][  0]LogVolumetricLightmapImport:          2: 0.0% covering 0.0% of volume
+[2018.01.12-17.11.21:102][  0]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 128X128)
+[2018.01.12-17.11.21:102][  0]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 128X128)
+[2018.01.12-17.11.21:324][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (G8, 64X64)
+[2018.01.12-17.11.21:455][  0]Lightmass on DESKTOP-DM246LS: 3.27 sec total, 1.24 sec importing, 168 ms setup, 287 ms photons, 1.46 sec processing, 0 ms extra exporting [1/1 mappings]. Threads: 5.82 sec total, 214 ms processing.
+[2018.01.12-17.11.21:462][  0]LogStaticLightingSystem: Illumination: 12.4 sec (23 ms encoding lightmaps, 388 ms encoding shadowmaps)
+[2018.01.12-17.11.21:463][  0]LogStaticLightingSystem: Lightmap texture memory:  0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 2 textures
+[2018.01.12-17.11.21:463][  0]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 1 textures
+[2018.01.12-17.11.21:564][  0]DumpUnbuiltLightIteractions
+[2018.01.12-17.11.21:564][  0]Lights with unbuilt interactions: 0
+[2018.01.12-17.11.21:564][  0]
+[2018.01.12-17.11.21:564][  0]Primitives with unbuilt interactions: 0
+[2018.01.12-17.11.21:583][  1]Cmd: MAP CHECK NOTIFYRESULTS
+[2018.01.12-17.11.21:583][  1]MapCheck: New page: TestsMap - Jan 12, 2018, 7:11:21 PM
+[2018.01.12-17.11.21:942][  1]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 359.44ms to complete.
+[2018.01.12-17.11.24:418][ 76]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.01.12-17.11.24:508][ 76]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.12-17.11.24:508][ 76]PIE: New page: PIE session: TestsMap (Jan 12, 2018, 7:11:24 PM)
+[2018.01.12-17.11.24:509][ 76]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestsMap
+[2018.01.12-17.11.24:517][ 76]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007648s)
+[2018.01.12-17.11.24:519][ 76]LogAIModule: Creating AISystem for world TestsMap
+[2018.01.12-17.11.24:521][ 76]LogPlayLevel: PIE: World Init took: (0.004199s)
+[2018.01.12-17.11.24:522][ 76]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestsMap.TestsMap to /Game/Maps/UEDPIE_0_TestsMap.TestsMap (0.013034s)
+[2018.01.12-17.11.24:655][ 76]LogInit: XAudio2 using 'Haut-parleurs (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.12-17.11.24:716][ 76]LogInit: FAudioDevice initialized.
+[2018.01.12-17.11.24:832][ 76]LogLoad: Game class is 'AoGameMode_C'
+[2018.01.12-17.11.24:841][ 76]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestsMap.TestsMap up for play (max tick rate 60) at 2018.01.12-18.11.24
+[2018.01.12-17.11.24:844][ 76]LogWorld: Bringing up level for play took: 0.008814
+[2018.01.12-17.11.24:866][ 76]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_TestsMap 0.663
+[2018.01.12-17.11.38:754][553]LogEditorViewport: Clicking on Actor (LMB): CameraActor (CameraActor)
+[2018.01.12-17.11.42:061][664]LogEditorViewport: Clicking on Actor (LMB): PaperTileMapActor (TemplateTileMap)
+[2018.01.12-17.11.43:083][688]LogEditorViewport: Clicking on Actor (LMB): PaperTileMapActor (TemplateTileMap)
+[2018.01.12-17.11.52:458][988]LogEditorActor: Deleted Actor: PlayerStart
+[2018.01.12-17.11.52:553][988]LogEditorActor: Deleted 1 Actors (0.100 secs)
+[2018.01.12-17.11.54:487][ 67]LogEditorViewport: Clicking on Actor (LMB): CameraActor (CameraActor)
+[2018.01.12-17.12.02:373][253]Cmd: DELETE
+[2018.01.12-17.12.02:373][253]Cmd: ACTOR DELETE
+[2018.01.12-17.12.02:378][253]LogEditorActor: Deleted Actor: AoCharacter_C
+[2018.01.12-17.12.02:469][253]LogEditorActor: Deleted 1 Actors (0.096 secs)
+[2018.01.12-17.12.12:183][570]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.01.12-17.12.12:276][570]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.12-17.12.12:276][570]PIE: New page: PIE session: TestsMap (Jan 12, 2018, 7:12:12 PM)
+[2018.01.12-17.12.12:277][570]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestsMap
+[2018.01.12-17.12.12:286][570]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008291s)
+[2018.01.12-17.12.12:288][570]LogAIModule: Creating AISystem for world TestsMap
+[2018.01.12-17.12.12:289][570]LogPlayLevel: PIE: World Init took: (0.003205s)
+[2018.01.12-17.12.12:290][570]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestsMap.TestsMap to /Game/Maps/UEDPIE_0_TestsMap.TestsMap (0.012632s)
+[2018.01.12-17.12.12:423][570]LogInit: XAudio2 using 'Haut-parleurs (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.12-17.12.12:483][570]LogInit: FAudioDevice initialized.
+[2018.01.12-17.12.12:597][570]LogLoad: Game class is 'AoGameMode_C'
+[2018.01.12-17.12.12:604][570]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestsMap.TestsMap up for play (max tick rate 60) at 2018.01.12-18.12.12
+[2018.01.12-17.12.12:606][570]LogWorld: Bringing up level for play took: 0.006075
+[2018.01.12-17.12.12:628][570]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_TestsMap 0.425
+[2018.01.12-17.12.20:013][768]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (PlayerStart)
+[2018.01.12-17.12.24:224][884]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2018.01.12-17.12.24:792][897]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.01.12-17.12.24:908][897]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.12-17.12.24:908][897]PIE: New page: PIE session: TestsMap (Jan 12, 2018, 7:12:24 PM)
+[2018.01.12-17.12.24:909][897]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestsMap
+[2018.01.12-17.12.24:917][897]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007576s)
+[2018.01.12-17.12.24:919][897]LogAIModule: Creating AISystem for world TestsMap
+[2018.01.12-17.12.24:921][897]LogPlayLevel: PIE: World Init took: (0.004040s)
+[2018.01.12-17.12.24:922][897]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestsMap.TestsMap to /Game/Maps/UEDPIE_0_TestsMap.TestsMap (0.013066s)
+[2018.01.12-17.12.25:061][897]LogInit: XAudio2 using 'Haut-parleurs (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.12-17.12.25:123][897]LogInit: FAudioDevice initialized.
+[2018.01.12-17.12.25:249][897]LogLoad: Game class is 'AoGameMode_C'
+[2018.01.12-17.12.25:257][897]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestsMap.TestsMap up for play (max tick rate 60) at 2018.01.12-18.12.25
+[2018.01.12-17.12.25:260][897]LogWorld: Bringing up level for play took: 0.007933
+[2018.01.12-17.12.25:281][897]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_TestsMap 1.079
+[2018.01.12-17.12.32:047][ 82]LogEditorViewport: Clicking on Actor (LMB): CameraActor (CameraActor)
+[2018.01.12-17.12.34:775][143]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.01.12-17.12.34:876][143]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.12-17.12.34:876][143]PIE: New page: PIE session: TestsMap (Jan 12, 2018, 7:12:34 PM)
+[2018.01.12-17.12.34:877][143]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestsMap
+[2018.01.12-17.12.34:885][143]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007876s)
+[2018.01.12-17.12.34:887][143]LogAIModule: Creating AISystem for world TestsMap
+[2018.01.12-17.12.34:889][143]LogPlayLevel: PIE: World Init took: (0.003617s)
+[2018.01.12-17.12.34:891][143]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestsMap.TestsMap to /Game/Maps/UEDPIE_0_TestsMap.TestsMap (0.014307s)
+[2018.01.12-17.12.35:045][143]LogInit: XAudio2 using 'Haut-parleurs (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.12-17.12.35:096][143]LogInit: FAudioDevice initialized.
+[2018.01.12-17.12.35:207][143]LogLoad: Game class is 'AoGameMode_C'
+[2018.01.12-17.12.35:215][143]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestsMap.TestsMap up for play (max tick rate 60) at 2018.01.12-18.12.35
+[2018.01.12-17.12.35:216][143]LogWorld: Bringing up level for play took: 0.006929
+[2018.01.12-17.12.35:237][143]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_TestsMap 1.034
+[2018.01.12-17.12.40:318][285]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2018.01.12-17.12.41:397][309]LogEditorViewport: Clicking on Actor (LMB): PaperTileMapActor (TemplateTileMap)
+[2018.01.12-17.12.42:572][343]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (PlayerStart)
+[2018.01.12-17.12.44:622][404]LogEditorViewport: Clicking on Actor (LMB): CameraActor (CameraActor)
+[2018.01.12-17.12.56:023][765]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.01.12-17.12.56:101][765]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.12-17.12.56:101][765]PIE: New page: PIE session: TestsMap (Jan 12, 2018, 7:12:56 PM)
+[2018.01.12-17.12.56:101][765]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestsMap
+[2018.01.12-17.12.56:107][765]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005460s)
+[2018.01.12-17.12.56:109][765]LogAIModule: Creating AISystem for world TestsMap
+[2018.01.12-17.12.56:110][765]LogPlayLevel: PIE: World Init took: (0.002843s)
+[2018.01.12-17.12.56:111][765]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestsMap.TestsMap to /Game/Maps/UEDPIE_0_TestsMap.TestsMap (0.009302s)
+[2018.01.12-17.12.56:260][765]LogInit: XAudio2 using 'Haut-parleurs (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.12-17.12.56:316][765]LogInit: FAudioDevice initialized.
+[2018.01.12-17.12.56:411][765]LogLoad: Game class is 'AoGameMode_C'
+[2018.01.12-17.12.56:419][765]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestsMap.TestsMap up for play (max tick rate 60) at 2018.01.12-18.12.56
+[2018.01.12-17.12.56:422][765]LogWorld: Bringing up level for play took: 0.007803
+[2018.01.12-17.12.56:441][765]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_TestsMap 0.239
+[2018.01.12-17.13.38:961][375]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2018.01.12-17.13.40:284][413]LogEditorViewport: Clicking on Actor (LMB): PaperTileMapActor (TemplateTileMap)
+[2018.01.12-17.16.21:854][222]LogSavePackage: Save=154.60ms
+[2018.01.12-17.16.21:854][222]LogSavePackage: Moving '../../../../../../Users/Thomas Lamson/Documents/Unreal Projects/Ao/Saved/TestsMap_Auto2B4EF81504224F3B09021819554110298.tmp' to '../../../../../../Users/Thomas Lamson/Documents/Unreal Projects/Ao/Saved/Autosaves/Game/Maps/TestsMap_Auto2.umap'
+[2018.01.12-17.16.21:861][222]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Thomas Lamson/Documents/Unreal Projects/Ao/Saved/Autosaves/Game/Maps/TestsMap_Auto2.umap
+[2018.01.12-17.16.21:870][222]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/TestsMap' took 0.364
+[2018.01.12-17.16.21:870][222]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.364
+[2018.01.12-17.16.21:878][222]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Maps/TestsMap_BuiltData] ([1] browsable assets)...
+[2018.01.12-17.16.21:878][222]OBJ SavePackage: Finished generating thumbnails for package [/Game/Maps/TestsMap_BuiltData]
+[2018.01.12-17.16.21:945][222]LogSavePackage: Save=25.77ms
+[2018.01.12-17.16.21:945][222]LogSavePackage: Moving '../../../../../../Users/Thomas Lamson/Documents/Unreal Projects/Ao/Saved/TestsMap_BuiltData_Auto23584BEB24436E39B90DAA48E1719385B.tmp' to '../../../../../../Users/Thomas Lamson/Documents/Unreal Projects/Ao/Saved/Autosaves/Game/Maps/TestsMap_BuiltData_Auto2.uasset'
+[2018.01.12-17.16.21:951][222]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Thomas Lamson/Documents/Unreal Projects/Ao/Saved/Autosaves/Game/Maps/TestsMap_BuiltData_Auto2.uasset
+[2018.01.12-17.16.21:955][222]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Character/AoGameMode] ([1] browsable assets)...
+[2018.01.12-17.16.21:955][222]OBJ SavePackage: Finished generating thumbnails for package [/Game/Character/AoGameMode]
+[2018.01.12-17.16.22:052][222]LogSavePackage: Save=51.37ms
+[2018.01.12-17.16.22:052][222]LogSavePackage: Moving '../../../../../../Users/Thomas Lamson/Documents/Unreal Projects/Ao/Saved/AoGameMode_Auto23C574C004AC6F61684858B9C9C0D641B.tmp' to '../../../../../../Users/Thomas Lamson/Documents/Unreal Projects/Ao/Saved/Autosaves/Game/Character/AoGameMode_Auto2.uasset'
+[2018.01.12-17.16.22:058][222]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Thomas Lamson/Documents/Unreal Projects/Ao/Saved/Autosaves/Game/Character/AoGameMode_Auto2.uasset
+[2018.01.12-17.16.22:061][222]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Character/AoCharacter] ([1] browsable assets)...
+[2018.01.12-17.16.22:061][222]OBJ SavePackage: Finished generating thumbnails for package [/Game/Character/AoCharacter]
+[2018.01.12-17.16.22:191][222]LogSavePackage: Save=83.29ms
+[2018.01.12-17.16.22:191][222]LogSavePackage: Moving '../../../../../../Users/Thomas Lamson/Documents/Unreal Projects/Ao/Saved/AoCharacter_Auto2B762646C436F3F5596DDDB8FEC94BDB2.tmp' to '../../../../../../Users/Thomas Lamson/Documents/Unreal Projects/Ao/Saved/Autosaves/Game/Character/AoCharacter_Auto2.uasset'
+[2018.01.12-17.16.22:197][222]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Thomas Lamson/Documents/Unreal Projects/Ao/Saved/Autosaves/Game/Character/AoCharacter_Auto2.uasset
+[2018.01.12-17.16.22:200][222]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Sprites/Character/Charac-Standing_Sprite_1] ([1] browsable assets)...
+[2018.01.12-17.16.22:240][222]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Sprites/Character/Charac-Standing_Sprite_1.Charac-Standing_Sprite_1]
+[2018.01.12-17.16.22:241][222]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sprites/Character/Charac-Standing_Sprite_1]
+[2018.01.12-17.16.22:292][222]LogSavePackage: Save=44.31ms
+[2018.01.12-17.16.22:293][222]LogSavePackage: Moving '../../../../../../Users/Thomas Lamson/Documents/Unreal Projects/Ao/Saved/Charac-Standing_Sprite_1_Auto272C485324F56B940A44BB08AF7568F32.tmp' to '../../../../../../Users/Thomas Lamson/Documents/Unreal Projects/Ao/Saved/Autosaves/Game/Sprites/Character/Charac-Standing_Sprite_1_Auto2.uasset'
+[2018.01.12-17.16.22:300][222]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Thomas Lamson/Documents/Unreal Projects/Ao/Saved/Autosaves/Game/Sprites/Character/Charac-Standing_Sprite_1_Auto2.uasset
+[2018.01.12-17.16.22:302][222]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Sprites/Character/Charac-Standing_Sprite_2] ([1] browsable assets)...
+[2018.01.12-17.16.22:341][222]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Sprites/Character/Charac-Standing_Sprite_2.Charac-Standing_Sprite_2]
+[2018.01.12-17.16.22:341][222]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sprites/Character/Charac-Standing_Sprite_2]
+[2018.01.12-17.16.22:394][222]LogSavePackage: Save=42.76ms
+[2018.01.12-17.16.22:394][222]LogSavePackage: Moving '../../../../../../Users/Thomas Lamson/Documents/Unreal Projects/Ao/Saved/Charac-Standing_Sprite_2_Auto294A2D3AA41063BC8632054A22CE70BB6.tmp' to '../../../../../../Users/Thomas Lamson/Documents/Unreal Projects/Ao/Saved/Autosaves/Game/Sprites/Character/Charac-Standing_Sprite_2_Auto2.uasset'
+[2018.01.12-17.16.22:400][222]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Thomas Lamson/Documents/Unreal Projects/Ao/Saved/Autosaves/Game/Sprites/Character/Charac-Standing_Sprite_2_Auto2.uasset
+[2018.01.12-17.16.22:403][222]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Sprites/Character/Charac-Standing_Sprite_3] ([1] browsable assets)...
+[2018.01.12-17.16.22:436][222]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Sprites/Character/Charac-Standing_Sprite_3.Charac-Standing_Sprite_3]
+[2018.01.12-17.16.22:436][222]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sprites/Character/Charac-Standing_Sprite_3]
+[2018.01.12-17.16.22:475][222]LogSavePackage: Save=31.74ms
+[2018.01.12-17.16.22:475][222]LogSavePackage: Moving '../../../../../../Users/Thomas Lamson/Documents/Unreal Projects/Ao/Saved/Charac-Standing_Sprite_3_Auto20AAA10414EA7C468E50CA784BA17013F.tmp' to '../../../../../../Users/Thomas Lamson/Documents/Unreal Projects/Ao/Saved/Autosaves/Game/Sprites/Character/Charac-Standing_Sprite_3_Auto2.uasset'
+[2018.01.12-17.16.22:481][222]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Thomas Lamson/Documents/Unreal Projects/Ao/Saved/Autosaves/Game/Sprites/Character/Charac-Standing_Sprite_3_Auto2.uasset
+[2018.01.12-17.16.22:483][222]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Sprites/Character/Charac-Standing_Sprite_0] ([1] browsable assets)...
+[2018.01.12-17.16.22:515][222]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Sprites/Character/Charac-Standing_Sprite_0.Charac-Standing_Sprite_0]
+[2018.01.12-17.16.22:516][222]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sprites/Character/Charac-Standing_Sprite_0]
+[2018.01.12-17.16.22:569][222]LogSavePackage: Save=36.90ms
+[2018.01.12-17.16.22:570][222]LogSavePackage: Moving '../../../../../../Users/Thomas Lamson/Documents/Unreal Projects/Ao/Saved/Charac-Standing_Sprite_0_Auto23B46815A4994067A8F1191BD5A2FBD72.tmp' to '../../../../../../Users/Thomas Lamson/Documents/Unreal Projects/Ao/Saved/Autosaves/Game/Sprites/Character/Charac-Standing_Sprite_0_Auto2.uasset'
+[2018.01.12-17.16.22:576][222]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Thomas Lamson/Documents/Unreal Projects/Ao/Saved/Autosaves/Game/Sprites/Character/Charac-Standing_Sprite_0_Auto2.uasset
+[2018.01.12-17.16.22:576][222]LogFileHelpers: Auto-saving content packages took 0.701
