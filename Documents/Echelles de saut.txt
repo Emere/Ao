@@ -1,0 +1,19 @@
+Jump Velocity : 820
+Max Run Speed : 300
+-----
+Pour la suite, une unité est un bloc de 16 pixels. Une demi-unité est donc une tile de 8*8 pixels.
+-----
+Saut en longueur :
+	- 3 blocs en moyenne
+	- 3,5 blocs max (valeur non recommandée : 4)
+Saut en hauteur :
+	- 2 blocs max (valeur interdite : 2,5)
+Saut en diagonale :
+	- pour une montée de 0,5 blocs, la longueur est de 3 blocs max (valeur interdite : 3,5)
+	- pour une montée de 1 bloc, la longueur est de 3 blocs max (valeur interdite : 3,5)
+	- pour une montée de 1,5 blocs, la longueur est de 2,5 blocs max (valeur interdite : 3)
+	- pour une montée de 2 blocs, la longueur est de 2 blocs (2,5 blocs max, mais difficile, valeur interdite : 3)
+Accroupi :
+	- passe sous 1 bloc, mais pas sous 0,5 blocs
+Debout :
+	- passe sous 2 blocs, mais pas sous 1,5 blocs
